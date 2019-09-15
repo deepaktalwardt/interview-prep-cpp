@@ -19,3 +19,11 @@ Adding solutions to all problems I have already completed
 * [917-reverse-only-letters.cpp](../Leetcode/917-reverse-only-letters.cpp)
 
 ### Algoexpert
+* [bubble-sort.cpp](../Algoexpert/bubble-sort.cpp)
+* [caesar-cipher-encryptor.cpp](../Algoexpert/caesar-cipher-encryptor.cpp)
+* [longest-palindromic-substring.cpp](../Algoexpert/longest-palindromic-substring.cpp)
+* [palindrome-check.cpp](../Algoexpert/palindrome-check.cpp)
+* [remove-kth-node-from-end.cpp](../Algoexpert/remove-kth-node-from-end.cpp)
+* [reverse-linked-list.cpp](../Algoexpert/reverse-linked-list.cpp)
+* [smallest-difference.cpp](../Algoexpert/smallest-difference.cpp)
+* [two-number-sum.cpp](../Algoexpert/two-number-sum.cpp)
