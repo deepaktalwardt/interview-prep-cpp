@@ -5,7 +5,7 @@ My solutions to coding interview problems on Leetcode, Algoexpert, Codewars and 
 Adding solutions to all problems I have already completed
 
 ### Leetcode
-* [5-longest-palindromic-subtring.cpp](Leetcode/5-longest-palindromic-subtring.cpp)
+* [5-longest-palindromic-substring.cpp](Leetcode/5-longest-palindromic-substring.cpp)
 * [19-remove-nth-node-from-end-of-list.cpp](Leetcode/19-remove-nth-node-from-end-of-list.cpp)
 * [21-merge-two-sorted-lists.cpp](Leetcode/21-merge-two-sorted-lists.cpp)
 * [101-symmetric-tree.cpp](Leetcode/101-symmetric-tree.cpp)
