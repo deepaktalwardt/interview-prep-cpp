@@ -1,8 +1,22 @@
 # Interview Preparation
 My solutions to coding interview problems on Leetcode, Algoexpert, Codewars and other interview preparation websites. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-## Day 0: September 14, 2019
+## Day 0
 Adding solutions to all problems I have already completed
+
+<!-- Template for each day
+
+ ## Day 1: September 15, 2019
+**Focus for today: ** Heaps/Priority Queues
+
+### Leetcode
+* [5-longest-palindromic-substring.cpp](Leetcode/5-longest-palindromic-substring.cpp)
+* [5-longest-palindromic-substring.cpp](Leetcode/5-longest-palindromic-substring.cpp)
+
+### Algoexpert
+* [bubble-sort.cpp](Algoexpert/bubble-sort.cpp)
+
+ -->
 
 ### Leetcode
 * [5-longest-palindromic-substring.cpp](Leetcode/5-longest-palindromic-substring.cpp)
@@ -27,3 +41,13 @@ Adding solutions to all problems I have already completed
 * [reverse-linked-list.cpp](Algoexpert/reverse-linked-list.cpp)
 * [smallest-difference.cpp](Algoexpert/smallest-difference.cpp)
 * [two-number-sum.cpp](Algoexpert/two-number-sum.cpp)
+
+## Day 1: September 15, 2019
+**Focus for today: ** Heaps/Priority Queues
+
+### Leetcode
+* [347-top-k-frequent-elements.cpp](Leetcode/347-top-k-frequent-elements.cpp)
+* [692-top-k-frequent-words.cpp](Leetcode/692-top-k-frequent-words.cpp)
+
+### Algoexpert
+* [min-heap-construction.cpp](Algoexpert/min-heap-construction.cpp)
