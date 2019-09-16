@@ -53,3 +53,13 @@ __Focus for today:__ Heaps/Priority Queues
 
 ### Algoexpert
 * [min-heap-construction.cpp](Algoexpert/min-heap-construction.cpp)
+
+ ## Day 2: September 16, 2019
+__Focus for today:__ Heaps/Priority Queues
+
+### Leetcode
+* [23-merge-k-sorted-lists.cpp](Leetcode/23-merge-k-sorted-lists.cpp)
+
+### Algoexpert
+* [invert-binary-tree.cpp](Algoexpert/invert-binary-tree.cpp)
+
