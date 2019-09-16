@@ -43,7 +43,7 @@ Adding solutions to all problems I have already completed
 * [two-number-sum.cpp](Algoexpert/two-number-sum.cpp)
 
 ## Day 1: September 15, 2019
-**Focus for today: ** Heaps/Priority Queues
+__Focus for today:__ Heaps/Priority Queues
 
 ### Leetcode
 * [347-top-k-frequent-elements.cpp](Leetcode/347-top-k-frequent-elements.cpp)
