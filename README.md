@@ -28,9 +28,9 @@ __Focus for today:__ Heaps/Priority Queues
  -->
 
 ### Leetcode
-* [5-longest-palindromic-substring.cpp](Leetcode/5-longest-palindromic-substring.cpp) :large_blue_circle:
-* [19-remove-nth-node-from-end-of-list.cpp](Leetcode/19-remove-nth-node-from-end-of-list.cpp) :large_blue_circle:
-* [21-merge-two-sorted-lists.cpp](Leetcode/21-merge-two-sorted-lists.cpp) :white_circle:
+* :large_blue_circle: [5-longest-palindromic-substring.cpp](Leetcode/5-longest-palindromic-substring.cpp) 
+* :large_blue_circle: [19-remove-nth-node-from-end-of-list.cpp](Leetcode/19-remove-nth-node-from-end-of-list.cpp) 
+* :white_circle: [21-merge-two-sorted-lists.cpp](Leetcode/21-merge-two-sorted-lists.cpp) 
 * [101-symmetric-tree.cpp](Leetcode/101-symmetric-tree.cpp) :white_circle:
 * [104-maximum-depth-of-binary-tree.cpp](Leetcode/104-maximum-depth-of-binary-tree.cpp) :white_circle:
 * [110-balanced-binary-tree.cpp](Leetcode/110-balanced-binary-tree.cpp) :white_circle:
