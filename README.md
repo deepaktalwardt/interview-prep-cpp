@@ -1,7 +1,7 @@
 # Interview Preparation
 My solutions to coding interview problems on Leetcode, Algoexpert, Codewars and other interview preparation websites. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Current Streak: 2 days
+# Current Streak: 3 days
 
 __Difficulty Level__
  
@@ -19,11 +19,11 @@ Adding solutions to all problems I have already completed
 __Focus for today:__ Heaps/Priority Queues
 
 ### Leetcode
-* [5-longest-palindromic-substring.cpp](Leetcode/5-longest-palindromic-substring.cpp)
-* [5-longest-palindromic-substring.cpp](Leetcode/5-longest-palindromic-substring.cpp)
+* :white_circle: [5-longest-palindromic-substring.cpp](Leetcode/5-longest-palindromic-substring.cpp)
+* :large_blue_circle: [5-longest-palindromic-substring.cpp](Leetcode/5-longest-palindromic-substring.cpp)
 
 ### Algoexpert
-* [bubble-sort.cpp](Algoexpert/bubble-sort.cpp)
+* :red_circle: [bubble-sort.cpp](Algoexpert/bubble-sort.cpp)
 
  -->
 
@@ -70,3 +70,13 @@ __Focus for today:__ Heaps/Priority Queues
 ### Algoexpert
 * :large_blue_circle: [invert-binary-tree.cpp](Algoexpert/invert-binary-tree.cpp) 
 * :white_circle: [binary-search.cpp](Algoexpert/binary-search.cpp) 
+
+## Day 3: September 17, 2019
+__Focus for today:__ Heaps/Priority Queues/Mock Interview Practice
+
+### Leetcode
+* :white_circle: [796-is-rotation.cpp](Leetcode/796-is-rotation.cpp)
+* :large_blue_circle: [229-majority-element-ii.cpp](Leetcode/229-majority-element-ii.cpp)
+
+### Algoexpert
+* :red_circle: [contiunous-median.cpp](Algoexpert/contiunous-median.cpp)
