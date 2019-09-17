@@ -62,4 +62,4 @@ __Focus for today:__ Heaps/Priority Queues
 
 ### Algoexpert
 * [invert-binary-tree.cpp](Algoexpert/invert-binary-tree.cpp)
-
+* [binary-search.cpp](Algoexpert/binary-search.cpp)
