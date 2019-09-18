@@ -65,18 +65,18 @@ __Focus for today:__ Heaps/Priority Queues
 __Focus for today:__ Heaps/Priority Queues
 
 ### Leetcode
-* :red_circle: [23-merge-k-sorted-lists.cpp](Leetcode/23-merge-k-sorted-lists.cpp) 
+* :red_circle: [23-merge-k-sorted-lists.cpp](Leetcode/23-merge-k-sorted-lists.cpp) Hint: No need to add entire lists to heaps at first!
 
 ### Algoexpert
-* :large_blue_circle: [invert-binary-tree.cpp](Algoexpert/invert-binary-tree.cpp) 
-* :white_circle: [binary-search.cpp](Algoexpert/binary-search.cpp) 
+* :large_blue_circle: [invert-binary-tree.cpp](Algoexpert/invert-binary-tree.cpp) Hint: You can't invert right if you've already invert left.
+* :white_circle: [binary-search.cpp](Algoexpert/binary-search.cpp) Hint: Helper helps!
 
 ## Day 3: September 17, 2019
 __Focus for today:__ Heaps/Priority Queues/Mock Interview Practice
 
 ### Leetcode
-* :white_circle: [796-is-rotation.cpp](Leetcode/796-is-rotation.cpp)
-* :large_blue_circle: [229-majority-element-ii.cpp](Leetcode/229-majority-element-ii.cpp)
+* :white_circle: [796-is-rotation.cpp](Leetcode/796-is-rotation.cpp) Hint: Don't try anything fancy! Think about how strings wrap around.
+* :large_blue_circle: [229-majority-element-ii.cpp](Leetcode/229-majority-element-ii.cpp) Hint: How many elements can be in the solution if majority is defined by having `floor(n/3)` elements?
 
 ### Algoexpert
 * :red_circle: [contiunous-median.cpp](Algoexpert/contiunous-median.cpp) Hint: Remember to rebalance the heaps!
