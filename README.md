@@ -79,4 +79,4 @@ __Focus for today:__ Heaps/Priority Queues/Mock Interview Practice
 * :large_blue_circle: [229-majority-element-ii.cpp](Leetcode/229-majority-element-ii.cpp)
 
 ### Algoexpert
-* :red_circle: [contiunous-median.cpp](Algoexpert/contiunous-median.cpp)
+* :red_circle: [contiunous-median.cpp](Algoexpert/contiunous-median.cpp) Hint: Remember to rebalance the heaps!
