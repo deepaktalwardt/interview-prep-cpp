@@ -1,7 +1,7 @@
 # Interview Preparation
 My solutions to coding interview problems on Leetcode, Algoexpert, Codewars and other interview preparation websites. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Current Streak: 3 days
+# Current Streak: 4 days
 
 __Difficulty Level__
  
