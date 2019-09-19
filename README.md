@@ -86,7 +86,7 @@ __Focus for today:__ Heaps/Priority Queues, Common Leetcode questions
 
 ### Leetcode
 * :white_circle: [1-two-sum.cpp](Leetcode/1-two-sum.cpp) _Hint: Think about what data structure to use. Don't try regular iteration!_
-<!-- * :large_blue_circle: [229-majority-element-ii.cpp](Leetcode/229-majority-element-ii.cpp) _Hint: How many elements can be in the solution if majority is defined by having `floor(n/3)` elements?_
+* :large_blue_circle: [2-add-two-numbers.cpp](Leetcode/2-add-two-numbers.cpp) _Hint: Recall elementary math! Also don't forget about the carry!_
 
-### Algoexpert
+<!-- ### Algoexpert
 * :red_circle: [contiunous-median.cpp](Algoexpert/contiunous-median.cpp) _Hint: Remember to rebalance the heaps!_ -->
