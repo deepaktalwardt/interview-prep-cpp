@@ -18,16 +18,16 @@ Adding solutions to all problems I have already completed
  ## Day 1: September 15, 2019
 __Focus for today:__ Heaps/Priority Queues
 
-### LeetCode
+#### LeetCode
 * :white_circle: [5-longest-palindromic-substring.cpp](LeetCode/5-longest-palindromic-substring.cpp)
 * :large_blue_circle: [5-longest-palindromic-substring.cpp](LeetCode/5-longest-palindromic-substring.cpp)
 
-### Algoexpert
+#### Algoexpert
 * :red_circle: [bubble-sort.cpp](Algoexpert/bubble-sort.cpp)
 
  -->
 
-### LeetCode
+#### LeetCode
 * :large_blue_circle: [5-longest-palindromic-substring.cpp](LeetCode/5-longest-palindromic-substring.cpp) 
 * :large_blue_circle: [19-remove-nth-node-from-end-of-list.cpp](LeetCode/19-remove-nth-node-from-end-of-list.cpp) 
 * :white_circle: [21-merge-two-sorted-lists.cpp](LeetCode/21-merge-two-sorted-lists.cpp) 
@@ -41,7 +41,7 @@ __Focus for today:__ Heaps/Priority Queues
 * :white_circle: [617-merge-two-binary-trees.cpp](LeetCode/617-merge-two-binary-trees.cpp) 
 * :white_circle: [917-reverse-only-letters.cpp](LeetCode/917-reverse-only-letters.cpp) 
 
-### Algoexpert
+#### Algoexpert
 * :white_circle: [bubble-sort.cpp](Algoexpert/bubble-sort.cpp) 
 * :white_circle: [caesar-cipher-encryptor.cpp](Algoexpert/caesar-cipher-encryptor.cpp) 
 * :large_blue_circle: [longest-palindromic-substring.cpp](Algoexpert/longest-palindromic-substring.cpp) 
@@ -55,21 +55,21 @@ __Focus for today:__ Heaps/Priority Queues
 ## Day 1: September 15, 2019
 __Focus for today:__ Heaps/Priority Queues
 
-### LeetCode
+#### LeetCode
 * :large_blue_circle: [347-top-k-frequent-elements.cpp](LeetCode/347-top-k-frequent-elements.cpp) 
 * :large_blue_circle: [692-top-k-frequent-words.cpp](LeetCode/692-top-k-frequent-words.cpp) 
 
-### Algoexpert
+#### Algoexpert
 * :large_blue_circle: [min-heap-construction.cpp](Algoexpert/min-heap-construction.cpp) 
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
  ## Day 2: September 16, 2019
 __Focus for today:__ Heaps/Priority Queues
 
-### LeetCode
+#### LeetCode
 * :red_circle: [23-merge-k-sorted-lists.cpp](LeetCode/23-merge-k-sorted-lists.cpp) _Hint: No need to add entire lists to heaps at first!_
 
-### Algoexpert
+#### Algoexpert
 * :large_blue_circle: [invert-binary-tree.cpp](Algoexpert/invert-binary-tree.cpp) _Hint: You can't invert right if you've already invert left._
 * :white_circle: [binary-search.cpp](Algoexpert/binary-search.cpp) _Hint: Helper helps!_
 
@@ -77,18 +77,18 @@ __Focus for today:__ Heaps/Priority Queues
 ## Day 3: September 17, 2019
 __Focus for today:__ Heaps/Priority Queues/Mock Interview Practice
 
-### LeetCode
+#### LeetCode
 * :white_circle: [796-is-rotation.cpp](LeetCode/796-is-rotation.cpp) _Hint: Don't try anything fancy! Think about how strings wrap around._
 * :large_blue_circle: [229-majority-element-ii.cpp](LeetCode/229-majority-element-ii.cpp) _Hint: How many elements can be in the solution if majority is defined by having `floor(n/3)` elements?_
 
-### Algoexpert
+#### Algoexpert
 * :red_circle: [contiunous-median.cpp](Algoexpert/contiunous-median.cpp) _Hint: Remember to rebalance the heaps!_
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 4: September 18, 2019
 __Focus for today:__ Heaps/Priority Queues, Common LeetCode questions
 
-### LeetCode
+#### LeetCode
 * :white_circle: [1-two-sum.cpp](LeetCode/1-two-sum.cpp) _Hint: Think about what data structure to use. Don't try regular iteration!_
 * :large_blue_circle: [2-add-two-numbers.cpp](LeetCode/2-add-two-numbers.cpp) _Hint: Recall elementary math! Also don't forget about the carry!_
 
@@ -96,9 +96,9 @@ __Focus for today:__ Heaps/Priority Queues, Common LeetCode questions
 ## Day 5: September 19, 2019
 __Focus for today:__ Common LeetCode questions
 
-### LeetCode
+#### LeetCode
 * :white_circle: [20-valid-parentheses.cpp](LeetCode/20-valid-parentheses.cpp) _Hint: Compare chars instead of strings!_
 * :white_circle: [937-reorder-data-in-log-files.cpp](LeetCode/937-reorder-data-in-log-files.cpp) _Hint: `find_first_of` method can be used to find first space in a string!_
 
-### Algoexpert
+#### Algoexpert
 * :large_blue_circle: [bst-traversal.cpp](Algoexpert/bst-traversal.cpp) _Hint: Don't append to the array, replace it!_
