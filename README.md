@@ -102,3 +102,6 @@ __Focus for today:__ Common LeetCode questions
 
 #### AlgoExpert
 * :large_blue_circle: [bst-traversal.cpp](AlgoExpert/bst-traversal.cpp) _Hint: Don't append to the array, replace it!_
+
+#### Elements of Programming Interviews
+* :large_blue_circle: [10-4-k-closest-stars.cpp](EPI/10-4-k-closest-stars.cpp) _Hint: Don't load everything into memory, use interators to point from beginning to end of stars list._
