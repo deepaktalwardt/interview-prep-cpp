@@ -51,6 +51,7 @@ __Focus for today:__ Heaps/Priority Queues
 * :large_blue_circle: [smallest-difference.cpp](Algoexpert/smallest-difference.cpp) 
 * :white_circle: [two-number-sum.cpp](Algoexpert/two-number-sum.cpp) 
 
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 1: September 15, 2019
 __Focus for today:__ Heaps/Priority Queues
 
@@ -61,6 +62,7 @@ __Focus for today:__ Heaps/Priority Queues
 ### Algoexpert
 * :large_blue_circle: [min-heap-construction.cpp](Algoexpert/min-heap-construction.cpp) 
 
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
  ## Day 2: September 16, 2019
 __Focus for today:__ Heaps/Priority Queues
 
@@ -71,6 +73,7 @@ __Focus for today:__ Heaps/Priority Queues
 * :large_blue_circle: [invert-binary-tree.cpp](Algoexpert/invert-binary-tree.cpp) _Hint: You can't invert right if you've already invert left._
 * :white_circle: [binary-search.cpp](Algoexpert/binary-search.cpp) _Hint: Helper helps!_
 
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 3: September 17, 2019
 __Focus for today:__ Heaps/Priority Queues/Mock Interview Practice
 
@@ -81,6 +84,7 @@ __Focus for today:__ Heaps/Priority Queues/Mock Interview Practice
 ### Algoexpert
 * :red_circle: [contiunous-median.cpp](Algoexpert/contiunous-median.cpp) _Hint: Remember to rebalance the heaps!_
 
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 4: September 18, 2019
 __Focus for today:__ Heaps/Priority Queues, Common Leetcode questions
 
@@ -88,5 +92,10 @@ __Focus for today:__ Heaps/Priority Queues, Common Leetcode questions
 * :white_circle: [1-two-sum.cpp](Leetcode/1-two-sum.cpp) _Hint: Think about what data structure to use. Don't try regular iteration!_
 * :large_blue_circle: [2-add-two-numbers.cpp](Leetcode/2-add-two-numbers.cpp) _Hint: Recall elementary math! Also don't forget about the carry!_
 
-<!-- ### Algoexpert
-* :red_circle: [contiunous-median.cpp](Algoexpert/contiunous-median.cpp) _Hint: Remember to rebalance the heaps!_ -->
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 5: September 19, 2019
+__Focus for today:__ Common Leetcode questions
+
+### Leetcode
+* :white_circle: [20-valid-parentheses.cpp](Leetcode/20-valid-parentheses.cpp) _Hint: Compare chars instead of strings!_
+<!-- * :large_blue_circle: [2-add-two-numbers.cpp](Leetcode/2-add-two-numbers.cpp) _Hint: Recall elementary math! Also don't forget about the carry!_ -->
