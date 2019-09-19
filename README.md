@@ -98,4 +98,5 @@ __Focus for today:__ Common Leetcode questions
 
 ### Leetcode
 * :white_circle: [20-valid-parentheses.cpp](Leetcode/20-valid-parentheses.cpp) _Hint: Compare chars instead of strings!_
+* :white_circle: [937-reorder-data-in-log-files.cpp](Leetcode/937-reorder-data-in-log-files.cpp) _Hint: `find_first_of` method can be used to find first space in a string!_
 <!-- * :large_blue_circle: [2-add-two-numbers.cpp](Leetcode/2-add-two-numbers.cpp) _Hint: Recall elementary math! Also don't forget about the carry!_ -->
