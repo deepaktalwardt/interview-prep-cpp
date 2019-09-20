@@ -106,3 +106,10 @@ __Focus for today:__ Common LeetCode questions, Heaps/Priority Queues
 
 #### Elements of Programming Interviews
 * :large_blue_circle: [10-4-k-closest-stars.cpp](EPI/10-4-k-closest-stars.cpp) _Hint: Don't load everything into memory, use interators to point from beginning to end of stars list._
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 6: September 20, 2019
+__Focus for today:__ Pramp interview
+
+#### Pramp
+* :large_blue_circle: [decode-variations.cpp](Pramp/interview-1/decode-variations.cpp) _Hint: Iterate backwards, don't actually create the variations._
