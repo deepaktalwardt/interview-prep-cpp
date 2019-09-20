@@ -94,11 +94,12 @@ __Focus for today:__ Heaps/Priority Queues, Common LeetCode questions
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 5: September 19, 2019
-__Focus for today:__ Common LeetCode questions
+__Focus for today:__ Common LeetCode questions, Heaps/Priority Queues
 
 #### LeetCode
 * :white_circle: [20-valid-parentheses.cpp](LeetCode/20-valid-parentheses.cpp) _Hint: Compare chars instead of strings!_
 * :white_circle: [937-reorder-data-in-log-files.cpp](LeetCode/937-reorder-data-in-log-files.cpp) _Hint: `find_first_of` method can be used to find first space in a string!_
+* :white_circle: [973-k-closest-points-to-origin.cpp](LeetCode/973-k-closest-points-to-origin.cpp) _Hint: Heap is your friend!_
 
 #### AlgoExpert
 * :large_blue_circle: [bst-traversal.cpp](AlgoExpert/bst-traversal.cpp) _Hint: Don't append to the array, replace it!_
