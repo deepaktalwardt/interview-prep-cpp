@@ -1,7 +1,7 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars and other interview preparation websites. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Current Streak: 6 days
+# Current Streak: 7 days
 
 __Difficulty Level__
  
@@ -114,3 +114,13 @@ __Focus for today:__ Pramp interview
 #### Pramp
 * :large_blue_circle: [decode-variations.cpp](Pramp/interview-1/decode-variations.cpp) _Hint: Iterate backwards, don't actually create the variations._
 * :large_blue_circle: [busiest-time-in-mall.cpp](Pramp/interview-1/busiest-time-in-mall.cpp) _Hint: Time stamps can be repeated! What happens at the last one?._
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 7: September 21, 2019
+__Focus for today:__ Heaps, Graphs
+
+#### LeetCode
+* :large_blue_circle: [215-kth-largest-element-in-array.cpp](LeetCode/215-kth-largest-element-in-array.cpp) _Hint: The obvious way is better._
+
+#### AlgoExpert
+* :white_circle: [depth-first-search.cpp](AlgoExpert/depth-first-search.cpp) _Hint: Use recursion!_
