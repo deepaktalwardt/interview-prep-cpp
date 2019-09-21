@@ -125,3 +125,4 @@ __Focus for today:__ Heaps, Graphs
 #### AlgoExpert
 * :white_circle: [depth-first-search.cpp](AlgoExpert/depth-first-search.cpp) _Hint: Use recursion!_
 * :large_blue_circle: [has-single-cycle.cpp](AlgoExpert/has-single-cycle.cpp) _Hint: Make sure index is already corrected at the end of the for loop!_
+* :large_blue_circle: [breadth-first-search.cpp](AlgoExpert/breadth-first-search.cpp) _Hint: Iterate and think about what data structure to use._
