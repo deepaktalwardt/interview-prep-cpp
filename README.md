@@ -113,3 +113,4 @@ __Focus for today:__ Pramp interview
 
 #### Pramp
 * :large_blue_circle: [decode-variations.cpp](Pramp/interview-1/decode-variations.cpp) _Hint: Iterate backwards, don't actually create the variations._
+* :large_blue_circle: [busiest-time-in-mall.cpp](Pramp/interview-1/busiest-time-in-mall.cpp) _Hint: Time stamps can be repeated! What happens at the last one?._
