@@ -15,10 +15,10 @@ int findSizeOfRiver(int i, int j, vector<vector<int>>& matrix, vector<vector<int
 		visited[front[0]][front[1]] = 1;
 		if (matrix[front[0]][front[1]]) {
 			sizeOfRiver++;
-			if (front[0]-1 >= 0) q.push({front[0]-1, front[1]});
-			if (front[0]+1 < rows) q.push({front[0]+1, front[1]});
-			if (front[1]-1 >= 0) q.push({front[0], front[1]-1});
-			if (front[1]+1 < cols) q.push({front[0], front[1]+1});
+			if ((front[0]-1 >= 0) && !visited[front[0]-1][front[1]]) q.push({front[0]-1, front[1]});
+			if ((front[0]+1 < rows) && !visited[front[0]+1][front[1]]) q.push({front[0]+1, front[1]});
+			if ((front[1]-1 >= 0) && !visited[front[0]][front[1]-1]) q.push({front[0], front[1]-1});
+			if ((front[1]+1 < cols) && !visited[front[0]][front[1]+1]) q.push({front[0], front[1]+1});
 		}
 	}
 	return sizeOfRiver;
