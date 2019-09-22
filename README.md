@@ -127,3 +127,10 @@ __Focus for today:__ Heaps, Graphs
 * :large_blue_circle: [has-single-cycle.cpp](AlgoExpert/has-single-cycle.cpp) _Hint: Make sure index is already corrected at the end of the for loop!_
 * :large_blue_circle: [breadth-first-search.cpp](AlgoExpert/breadth-first-search.cpp) _Hint: Iterate and think about what data structure to use._
 * :large_blue_circle: [river-sizes.cpp](AlgoExpert/river-sizes.cpp) _Hint: Use DFS/BFS as soon as you find a river. Keep track of already visited ones._
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 8: September 22, 2019
+__Focus for today:__ Graphs
+
+#### LeetCode
+* :large_blue_circle: [200-number-of-islands.cpp](LeetCode/200-number-of-islands.cpp) _Hint: Recursive DFS is much faster!_
