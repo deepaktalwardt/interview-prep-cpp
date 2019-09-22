@@ -120,7 +120,7 @@ __Focus for today:__ Pramp interview
 __Focus for today:__ Heaps, Graphs
 
 #### LeetCode
-* :large_blue_circle: [215-kth-largest-element-in-array.cpp](LeetCode/215-kth-largest-element-in-array.cpp) _Hint: The obvious way is better._
+* :large_blue_circle: [215-kth-largest-element-in-array.cpp](LeetCode/215-kth-largest-element-in-array.cpp) _Hint: Use a heap, but see if you can find a way to include all elements in a heap._
 
 #### AlgoExpert
 * :white_circle: [depth-first-search.cpp](AlgoExpert/depth-first-search.cpp) _Hint: Use recursion!_
