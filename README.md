@@ -134,3 +134,10 @@ __Focus for today:__ Graphs
 
 #### LeetCode
 * :large_blue_circle: [200-number-of-islands.cpp](LeetCode/200-number-of-islands.cpp) _Hint: Recursive DFS is much faster!_
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 9: September 23, 2019
+__Focus for today:__ Graphs
+
+#### AlgoExpert
+* :large_blue_circle: [youngest-common-ancestor.cpp](AlgoExpert/youngest-common-ancestor.cpp) _Hint: Get to the same depth!_
