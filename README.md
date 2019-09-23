@@ -141,3 +141,4 @@ __Focus for today:__ Graphs
 
 #### AlgoExpert
 * :large_blue_circle: [youngest-common-ancestor.cpp](AlgoExpert/youngest-common-ancestor.cpp) _Hint: Get to the same depth!_
+* :red_circle: [lowest-common-manager.cpp](AlgoExpert/lowest-common-manager.cpp) _Hint: Don't forget about the edgecase where one of the reports could be the manager!_
