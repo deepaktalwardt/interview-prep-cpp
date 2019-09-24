@@ -3,12 +3,16 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars and 
 
 # Current Streak: 10 days
 
-__Difficulty Level__
+__Difficulty Levels solved__
  
- Easy - :white_circle:
- Medium - :large_blue_circle:
- Hard - :red_circle:
- Very Hard - :black_circle:
+ Easy :white_circle: : 22
+
+ Medium :large_blue_circle: : 21
+
+ Hard :red_circle: : 4
+
+ Very Hard :black_circle: : 1
+
 
 ## Day 0
 Adding solutions to all problems I have already completed
