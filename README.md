@@ -5,13 +5,13 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars and 
 
 __Difficulty Levels solved__
  
- Easy :white_circle: : 22
+ :white_circle: Easy: 22
 
- Medium :large_blue_circle: : 21
+ :large_blue_circle: Medium: 21
 
- Hard :red_circle: : 4
+ :red_circle: Hard: 4
 
- Very Hard :black_circle: : 1
+ :black_circle: Very Hard: 1
 
 
 ## Day 0
