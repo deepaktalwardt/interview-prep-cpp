@@ -1,7 +1,7 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars and other interview preparation websites. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Current Streak: 9 days
+# Current Streak: 10 days
 
 __Difficulty Level__
  
@@ -149,4 +149,6 @@ __Focus for today:__ Graphs
 
 #### LeetCode
 * :white_circle: [661-image-smoother.cpp](LeetCode/661-image-smoother.cpp) _Hint: Dont' over complicate it._
-<!-- * :red_circle: [lowest-common-manager.cpp](AlgoExpert/lowest-common-manager.cpp) _Hint: Don't forget about the edgecase where one of the reports could be the manager!_ -->
+
+#### AlgoExpert
+* :black_circle: [rectangle-mania.cpp](AlgoExpert/rectangle-mania.cpp) _Hint: What do diagonals tell you? Can a datastructure give you better lookup than the `vector`?_
