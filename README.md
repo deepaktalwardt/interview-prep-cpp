@@ -153,12 +153,10 @@ __Focus for today:__ Graphs
 #### AlgoExpert
 * :black_circle: [rectangle-mania.cpp](AlgoExpert/rectangle-mania.cpp) _Hint: What do diagonals tell you? Can a datastructure give you better lookup than the `vector`?_
 
-!-- --------------------------------------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 11: September 25, 2019
 __Focus for today:__ Graphs
-
 #### LeetCode
 * :large_blue_circle: [362-design-hit-counter.cpp](LeetCode/362-design-hit-counter.cpp) _Hint: What data structure helps you to remove older values easily?._
-
 #### Pramp
 * :large_blue_circle: [getting-a-different-number.cpp](Pramp/interview-2/getting-a-different-number.cpp) _Hint: There are 3 ways to do it! O(N) is possible but not intuitive._
