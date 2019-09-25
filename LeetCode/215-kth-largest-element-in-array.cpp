@@ -8,21 +8,22 @@ public:
     }
 };
 
-// Solution 2: Max heap method O(NlogN) and O(N) memory
+// Solution 2: Max heap method O(Nlogk) and O(k) memory
 #include <queue>
 class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
-        priority_queue<int> max_heap;
-        for (const int& num : nums) {
-            max_heap.emplace(num);
+        priority_queue<int, vector<int>, greater<int>> min_heap;
+        for (int i = 0; i < nums.size(); i++) {
+            if (i < k) {
+                min_heap.emplace(nums[i]);
+            } else {
+                if (nums[i] > min_heap.top()) {
+                    min_heap.pop();
+                    min_heap.emplace(nums[i]);
+                }
+            }
         }
-        int result;
-        while (k) {
-            result = max_heap.top();
-            max_heap.pop();
-            k--;
-        }
-        return result;
+        return min_heap.top();
     }
 };

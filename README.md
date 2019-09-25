@@ -1,12 +1,12 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Current Streak: 10 days
+# Current Streak: 11 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 22  
- :large_blue_circle: Medium: 22  
+ :large_blue_circle: Medium: 23  
  :red_circle: Hard: 4  
  :black_circle: Very Hard: 1  
 
@@ -159,3 +159,6 @@ __Focus for today:__ Graphs
 
 #### LeetCode
 * :large_blue_circle: [362-design-hit-counter.cpp](LeetCode/362-design-hit-counter.cpp) _Hint: What data structure helps you to remove older values easily?._
+
+#### Pramp
+* :large_blue_circle: [getting-a-different-number.cpp](Pramp/interview-2/getting-a-different-number.cpp) _Hint: There are 3 ways to do it! O(N) is possible but not intuitive._
