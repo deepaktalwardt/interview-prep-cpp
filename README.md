@@ -1,12 +1,12 @@
 # Interview Preparation
-My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars and other interview preparation websites. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
+My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
 # Current Streak: 10 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 22  
- :large_blue_circle: Medium: 21  
+ :large_blue_circle: Medium: 22  
  :red_circle: Hard: 4  
  :black_circle: Very Hard: 1  
 
@@ -152,3 +152,10 @@ __Focus for today:__ Graphs
 
 #### AlgoExpert
 * :black_circle: [rectangle-mania.cpp](AlgoExpert/rectangle-mania.cpp) _Hint: What do diagonals tell you? Can a datastructure give you better lookup than the `vector`?_
+
+!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 11: September 25, 2019
+__Focus for today:__ Graphs
+
+#### LeetCode
+* :large_blue_circle: [362-design-hit-counter.cpp](LeetCode/362-design-hit-counter.cpp) _Hint: What data structure helps you to remove older values easily?._
