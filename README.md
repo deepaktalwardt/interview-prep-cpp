@@ -10,6 +10,8 @@ __Difficulty Levels solved__
  :red_circle: Hard: 4  
  :black_circle: Very Hard: 1  
 
+ __Total:__ 50
+
 ## Day 0
 Adding solutions to all problems I have already completed
 
@@ -156,7 +158,9 @@ __Focus for today:__ Graphs
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 11: September 25, 2019
 __Focus for today:__ Graphs
+
 #### LeetCode
 * :large_blue_circle: [362-design-hit-counter.cpp](LeetCode/362-design-hit-counter.cpp) _Hint: What data structure helps you to remove older values easily?._
+
 #### Pramp
 * :large_blue_circle: [getting-a-different-number.cpp](Pramp/interview-2/getting-a-different-number.cpp) _Hint: There are 3 ways to do it! O(N) is possible but not intuitive._
