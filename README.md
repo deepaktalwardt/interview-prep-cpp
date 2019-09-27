@@ -164,3 +164,12 @@ __Focus for today:__ Graphs
 
 #### Pramp
 * :large_blue_circle: [getting-a-different-number.cpp](Pramp/interview-2/getting-a-different-number.cpp) _Hint: There are 3 ways to do it! O(N) is possible but not intuitive._
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 11: September 25, 2019
+Practiced but did not have any answers completed.
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 12: September 26, 2019
+#### LeetCode
+* :large_blue_circle: [785-is-graph-bipartite.cpp](LeetCode/785-is-graph-bipartite.cpp) _Hint: Any neighbor of a node cannot have the same color as itself._
