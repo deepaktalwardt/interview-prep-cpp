@@ -7,10 +7,10 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 22  
  :large_blue_circle: Medium: 25  
- :red_circle: Hard: 4  
+ :red_circle: Hard: 5  
  :black_circle: Very Hard: 1  
 
- __Total:__ 52
+ __Total:__ 53
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -174,3 +174,6 @@ Practiced but did not have any answers completed.
 #### LeetCode
 * :large_blue_circle: [785-is-graph-bipartite.cpp](LeetCode/785-is-graph-bipartite.cpp) _Hint: Any neighbor of a node cannot have the same color as itself._
 * :large_blue_circle: [364-nested-list-weight-sum-ii.cpp](LeetCode/364-nested-list-weight-sum-ii.cpp) _Hint: Iterate through, find add an integer as many times as there are levels below it._
+
+#### Pramp
+* :red_circle: [word-count-engine.cpp](Pramp/interview-3/word-count-engine.cpp) _Hint: You cannot do sorting and counting at the same time._
