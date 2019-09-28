@@ -185,3 +185,5 @@ Practiced but did not have any answers completed.
 
 #### AlgoExpert
 * :large_blue_circle: [three-number-sum.cpp](AlgoExpert/three-number-sum.cpp) _Hint: Two loops is okay._
+* :red_circle: [four-number-sum.cpp](AlgoExpert/four-number-sum.cpp) _Hint: Can you divide this into a two sum problem with 2 loops? Only store the tuple of values AFTER you have visited the first._
+
