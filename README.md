@@ -197,5 +197,6 @@ __Focus for today:__ Arrays and Strings
 
 #### AlgoExpert
 * :red_circle: [largest-range.cpp](AlgoExpert/largest-range.cpp) _Hint: Store everything in a data structure, and search forwards and backwards. Mark numbers you've already seen before._
-* :red_circle: [min-rewards.cpp](AlgoExpert/min-rewards.cpp) _Hint: Naive: While going backwards, make sure to keep track of previous reward! Choose the larger._
+* :red_circle: [min-rewards.cpp](AlgoExpert/min-rewards.cpp) (Naive) _Hint: While going backwards, make sure to keep track of previous reward for that student! Choose the larger._
+* :red_circle: [min-rewards.cpp](AlgoExpert/min-rewards.cpp) (Peaks and Valleys) _Hint: Find valleys and iterate outwards incrementing rewards as you go. Don't forget to choose the larger between the previous and the new reward!_
 
