@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Current Streak: 2 day(s)
+# Current Streak: 3 day(s)
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 23  
  :large_blue_circle: Medium: 27  
- :red_circle: Hard: 6  
+ :red_circle: Hard: 7  
  :black_circle: Very Hard: 1  
 
- __Total:__ 57
+ __Total:__ 58
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -197,4 +197,5 @@ __Focus for today:__ Arrays and Strings
 
 #### AlgoExpert
 * :red_circle: [largest-range.cpp](AlgoExpert/largest-range.cpp) _Hint: Store everything in a data structure, and search forwards and backwards. Mark numbers you've already seen before._
+* :red_circle: [min-rewards.cpp](AlgoExpert/min-rewards.cpp) _Hint: Naive: While going backwards, make sure to keep track of previous reward! Choose the larger._
 
