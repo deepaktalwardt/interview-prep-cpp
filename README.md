@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 23  
- :large_blue_circle: Medium: 26  
+ :large_blue_circle: Medium: 27  
  :red_circle: Hard: 5  
  :black_circle: Very Hard: 1  
 
- __Total:__ 55
+ __Total:__ 56
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -182,6 +182,7 @@ Practiced but did not have any answers completed.
 ## Day 13: September 28, 2019
 #### LeetCode
 * :white_circle: [268-missing-number.cpp](LeetCode/268-missing-number.cpp) _Hint: What was gauss's formula? Use it!_
+* :large_blue_circle: [15-3sum.cpp](LeetCode/15-3sum.cpp) _Hint: Remember to skip the repeated ones!_
 
 #### AlgoExpert
 * :large_blue_circle: [three-number-sum.cpp](AlgoExpert/three-number-sum.cpp) _Hint: Two loops is okay._
