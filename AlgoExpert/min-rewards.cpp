@@ -7,6 +7,32 @@
 
 using namespace std;
 
+int minRewards(vector<int> scores) {
+  // Write your code here.
+	vector<int> rewards(scores.size(), 1);
+	for (int i = 1; i < scores.size(); i++) {
+		if (scores[i] > scores[i - 1]) {
+			rewards[i] = rewards[i - 1] + 1;
+		}
+	}
+	for (int k = scores.size() - 2; k >= 0; k--) {
+		if (scores[k] > scores[k + 1]) {
+			rewards[k] = max(rewards[k], rewards[k + 1] + 1);
+		}
+	}
+	return accumulate(rewards.begin(), rewards.end(), 0);
+}
+
+
+////////////////////////////////////////////////////////
+// Time Complexity: O(N), Space Complexity: O(N)
+
+#include <vector>
+#include <numeric>
+#include <iostream>
+
+using namespace std;
+
 vector<int> findValleys(vector<int>& scores) {
 	if (scores.size() == 1) return {0};
 	vector<int> result;
