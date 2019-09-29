@@ -157,7 +157,7 @@ __Focus for today:__ Graphs
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 11: September 25, 2019
-__Focus for today:__ Graphs
+__Focus for today:__ Arrays and Strings
 
 #### LeetCode
 * :large_blue_circle: [362-design-hit-counter.cpp](LeetCode/362-design-hit-counter.cpp) _Hint: What data structure helps you to remove older values easily?._
@@ -166,11 +166,12 @@ __Focus for today:__ Graphs
 * :large_blue_circle: [getting-a-different-number.cpp](Pramp/interview-2/getting-a-different-number.cpp) _Hint: There are 3 ways to do it! O(N) is possible but not intuitive._
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 11: September 26, 2019
+## Day 12: September 26, 2019
 Practiced but did not have any answers completed.
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 12: September 27, 2019
+## Day 13: September 27, 2019
+__Focus for today:__ Arrays and Strings
 #### LeetCode
 * :large_blue_circle: [785-is-graph-bipartite.cpp](LeetCode/785-is-graph-bipartite.cpp) _Hint: Any neighbor of a node cannot have the same color as itself._
 * :large_blue_circle: [364-nested-list-weight-sum-ii.cpp](LeetCode/364-nested-list-weight-sum-ii.cpp) _Hint: Iterate through, add an integer as many times as there are levels below it._
@@ -179,7 +180,8 @@ Practiced but did not have any answers completed.
 * :red_circle: [word-count-engine.cpp](Pramp/interview-3/word-count-engine.cpp) _Hint: You cannot do sorting and counting at the same time._
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 13: September 28, 2019
+## Day 14: September 28, 2019
+__Focus for today:__ Arrays and Strings
 #### LeetCode
 * :white_circle: [268-missing-number.cpp](LeetCode/268-missing-number.cpp) _Hint: What was gauss's formula? Use it!_
 * :large_blue_circle: [15-3sum.cpp](LeetCode/15-3sum.cpp) _Hint: Remember to skip the repeated ones!_
@@ -188,4 +190,11 @@ Practiced but did not have any answers completed.
 * :large_blue_circle: [three-number-sum.cpp](AlgoExpert/three-number-sum.cpp) _Hint: Two loops is okay._
 * :red_circle: [four-number-sum.cpp](AlgoExpert/four-number-sum.cpp) _Hint: Can you divide this into a two sum problem with 2 loops? Only store the tuple of values AFTER you have visited the first._
 * :red_circle: [subarray-sort.cpp](AlgoExpert/subarray-sort.cpp) _Hint: Find the smallest and largest out of order numbers. Where will you place them now?._
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 15: September 29, 2019
+__Focus for today:__ Arrays and Strings
+
+#### AlgoExpert
+* :red_circle: [largest-range.cpp](AlgoExpert/largest-range.cpp) _Hint: Store everything in a data structure, and search forwards and backwards. Mark numbers you've already seen before._
 
