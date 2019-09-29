@@ -7,10 +7,10 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 23  
  :large_blue_circle: Medium: 27  
- :red_circle: Hard: 5  
+ :red_circle: Hard: 6  
  :black_circle: Very Hard: 1  
 
- __Total:__ 56
+ __Total:__ 57
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -187,4 +187,5 @@ Practiced but did not have any answers completed.
 #### AlgoExpert
 * :large_blue_circle: [three-number-sum.cpp](AlgoExpert/three-number-sum.cpp) _Hint: Two loops is okay._
 * :red_circle: [four-number-sum.cpp](AlgoExpert/four-number-sum.cpp) _Hint: Can you divide this into a two sum problem with 2 loops? Only store the tuple of values AFTER you have visited the first._
+* :red_circle: [subarray-sort.cpp](AlgoExpert/subarray-sort.cpp) _Hint: Find the smallest and largest out of order numbers. Where will you place them now?._
 
