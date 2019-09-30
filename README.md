@@ -1,16 +1,16 @@
 # Interview Preparation
-My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
+My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
 # Current Streak: 3 day(s)
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 24  
+ :white_circle: Easy: 25  
  :large_blue_circle: Medium: 27  
  :red_circle: Hard: 7  
  :black_circle: Very Hard: 1  
 
- __Total:__ 59
+ __Total:__ 60
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -204,3 +204,5 @@ __Focus for today:__ Arrays and Strings, Graphs
 #### LeetCode
 * :large_blue_circle: [994-rotting-oranges.cpp](LeetCode/994-rotting-oranges.cpp) _Hint: Use a datastructure to store depth for each newly rotten orange._
 * :white_circle: [121-best-time-to-buy-and-sell-stock.cpp](LeetCode/121-best-time-to-buy-and-sell-stock.cpp) _Hint: Store the minimum so far and keep maximum difference at every time step._
+* :white_circle: [88-merge-sorted-array.cpp](LeetCode/88-merge-sorted-array.cpp) _Hint: Do the merge step from mergesort from the back!._
+* :white_circle: [283-move-zeroes.cpp](LeetCode/283-move-zeroes.cpp) _Hint: Use the fast/slow pointer approach! Keep track of where the last non-zero element was seen._
