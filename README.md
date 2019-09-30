@@ -193,7 +193,7 @@ __Focus for today:__ Arrays and Strings
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 15: September 29, 2019
-__Focus for today:__ Arrays and Strings
+__Focus for today:__ Arrays and Strings, Graphs
 
 #### AlgoExpert
 * :red_circle: [largest-range.cpp](AlgoExpert/largest-range.cpp) _Hint: Store everything in a data structure, and search forwards and backwards. Mark numbers you've already seen before._
@@ -201,3 +201,5 @@ __Focus for today:__ Arrays and Strings
 * :red_circle: [min-rewards.cpp](AlgoExpert/min-rewards.cpp) (Peaks and Valleys) _Hint: Find valleys and iterate outwards incrementing rewards as you go. Don't forget to choose the larger between the previous and the new reward!_
 * :red_circle: [min-rewards.cpp](AlgoExpert/min-rewards.cpp) (Two sweep) _Hint: Sweep once from either direction, increment rewards only on positive slope! Don't forget to choose the larger between the previous and the new reward!_
 
+#### LeetCode
+* :large_blue_circle: [994-rotting-oranges.cpp](LeetCode/994-rotting-oranges.cpp) _Hint: Use a datastructure to store depth for each newly rotten orange._
