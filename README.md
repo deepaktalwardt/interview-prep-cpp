@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 25  
- :large_blue_circle: Medium: 27  
+ :large_blue_circle: Medium: 28  
  :red_circle: Hard: 7  
  :black_circle: Very Hard: 1  
 
- __Total:__ 60
+ __Total:__ 61
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -206,3 +206,4 @@ __Focus for today:__ Arrays and Strings, Graphs
 * :white_circle: [121-best-time-to-buy-and-sell-stock.cpp](LeetCode/121-best-time-to-buy-and-sell-stock.cpp) _Hint: Store the minimum so far and keep maximum difference at every time step._
 * :white_circle: [88-merge-sorted-array.cpp](LeetCode/88-merge-sorted-array.cpp) _Hint: Do the merge step from mergesort from the back!._
 * :white_circle: [283-move-zeroes.cpp](LeetCode/283-move-zeroes.cpp) _Hint: Use the fast/slow pointer approach! Keep track of where the last non-zero element was seen._
+* :large_blue_circle: [11-container-with-most-water.cpp](LeetCode/11-container-with-most-water.cpp) _Hint: Traverse from both ends._
