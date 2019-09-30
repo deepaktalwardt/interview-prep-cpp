@@ -203,3 +203,4 @@ __Focus for today:__ Arrays and Strings, Graphs
 
 #### LeetCode
 * :large_blue_circle: [994-rotting-oranges.cpp](LeetCode/994-rotting-oranges.cpp) _Hint: Use a datastructure to store depth for each newly rotten orange._
+* :white_circle: [121-best-time-to-buy-and-sell-stock.cpp](LeetCode/121-best-time-to-buy-and-sell-stock.cpp) _Hint: Store the minimum so far and keep maximum difference at every time step._
