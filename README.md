@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Current Streak: 3 day(s)
+# Current Streak: 4 day(s)
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 25  
  :large_blue_circle: Medium: 28  
- :red_circle: Hard: 7  
+ :red_circle: Hard: 8  
  :black_circle: Very Hard: 1  
 
- __Total:__ 61
+ __Total:__ 62
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -207,3 +207,11 @@ __Focus for today:__ Arrays and Strings, Graphs
 * :white_circle: [88-merge-sorted-array.cpp](LeetCode/88-merge-sorted-array.cpp) _Hint: Do the merge step from mergesort from the back!._
 * :white_circle: [283-move-zeroes.cpp](LeetCode/283-move-zeroes.cpp) _Hint: Use the fast/slow pointer approach! Keep track of where the last non-zero element was seen._
 * :large_blue_circle: [11-container-with-most-water.cpp](LeetCode/11-container-with-most-water.cpp) _Hint: Traverse from both ends._
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 16: September 30, 2019
+__Focus for today:__ Arrays, Pramp interview
+
+#### AlgoExpert
+* :red_circle: [zigzag-traverse.cpp](AlgoExpert/zigzag-traverse.cpp) _Hint: Pay attention to the conditions when you need to NOT go diagonally. Keep track of the direction._
+
