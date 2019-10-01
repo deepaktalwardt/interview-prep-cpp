@@ -215,3 +215,11 @@ __Focus for today:__ Arrays, Pramp interview
 #### AlgoExpert
 * :red_circle: [zigzag-traverse.cpp](AlgoExpert/zigzag-traverse.cpp) _Hint: Pay attention to the conditions when you need to NOT go diagonally. Keep track of the direction._
 
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 17: October 1, 2019
+__Focus for today:__ Arrays 
+
+#### LeetCode
+* :large_blue_circle: [59-spiral-matrix-ii.cpp](LeetCode/59-spiral-matrix-ii.cpp) _Hint: Keep track of beggining and ending indices of rows and columns as you rotate around the matrix. Increment or decrement as you finish any row or column.`_
+
