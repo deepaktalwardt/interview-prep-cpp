@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 25  
- :large_blue_circle: Medium: 30  
+ :large_blue_circle: Medium: 31  
  :red_circle: Hard: 8  
  :black_circle: Very Hard: 1  
 
- __Total:__ 64
+ __Total:__ 65
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -224,3 +224,9 @@ __Focus for today:__ Arrays
 * :large_blue_circle: [59-spiral-matrix-ii.cpp](LeetCode/59-spiral-matrix-ii.cpp) _Hint: Keep track of beggining and ending indices of rows and columns as you rotate around the matrix. Increment or decrement as you finish any row or column.`_
 * :large_blue_circle: [54-spiral-matrix.cpp](LeetCode/54-spiral-matrix.cpp) _Hint: Keep track of beggining and ending indices of rows and columns as you rotate around the matrix. Increment or decrement as you finish any row or column. Have you violated the constraints while inside the loop?`_
 
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 18: October 2, 2019
+__Focus for today:__ Arrays 
+
+#### LeetCode
+* :large_blue_circle: [161-one-edit-distance.cpp](LeetCode/161-one-edit-distance.cpp) _Hint: Iterate over both and keep account of differences._
