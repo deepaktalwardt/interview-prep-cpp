@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 17/18 days
+# Completed: 18/19 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 25  
- :large_blue_circle: Medium: 31  
+ :large_blue_circle: Medium: 32  
  :red_circle: Hard: 8  
  :black_circle: Very Hard: 1  
 
- __Total:__ 65
+ __Total:__ 66
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -230,3 +230,10 @@ __Focus for today:__ Arrays
 
 #### LeetCode
 * :large_blue_circle: [161-one-edit-distance.cpp](LeetCode/161-one-edit-distance.cpp) _Hint: Iterate over both and keep account of differences._
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 19: October 3, 2019
+__Focus for today:__ Arrays 
+
+#### LeetCode
+* :large_blue_circle: [48-rotate-image.cpp](LeetCode/48-rotate-image.cpp) _Hint: Keep track of row and column limits and go around in a circle. Make the circle smaller once all are done._
