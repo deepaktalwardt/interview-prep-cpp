@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 18/20 days
+# Completed: 19/21 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 25  
- :large_blue_circle: Medium: 32  
+ :large_blue_circle: Medium: 33  
  :red_circle: Hard: 8  
  :black_circle: Very Hard: 1  
 
- __Total:__ 66
+ __Total:__ 67
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -241,3 +241,11 @@ __Focus for today:__ Arrays
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 20: October 4, 2019
 Skipped, other priorities for the day.
+
+
+<!----------------------->
+## Day 21: October 5, 2019
+__Focus for today:__ Dynamic Programming
+
+#### AlgoExpert
+* :large_blue_circle: [maximum-subset-sum-with-no-adjacent-elements.cpp](AlgoExpert/maximum-subset-sum-with-no-adjacent-elements.cpp) _Hint: Iterate looking backwards. The current max is the max of either the max at previous index, or sum of current index and the max and previous to previous index._
