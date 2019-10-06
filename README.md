@@ -253,3 +253,6 @@ __Focus for today:__ Dynamic Programming
 * :large_blue_circle: [number-of-ways-to-make-change.cpp](AlgoExpert/number-of-ways-to-make-change.cpp) _Hint: For d in denominations, check each amount 0-n and add ways possible._
 
 * :large_blue_circle: [min-number-of-coins-for-change.cpp](AlgoExpert/min-number-of-coins-for-change.cpp) _Hint: Make a list from 0-n, and at each index find the min number of coins for change. Choose min of current value, and 1 + min ways to make change of the remainder after using a denomination_
+
+#### LeetCode
+* :white_circle: [53-maximum-subarray.cpp](LeetCode/53-maximum-subarray.cpp) _Hint: Maximum subarray at i is max of current number or sum of previous max and current number._
