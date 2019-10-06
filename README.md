@@ -5,12 +5,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 26  
+ :white_circle: Easy: 28  
  :large_blue_circle: Medium: 35  
  :red_circle: Hard: 8  
  :black_circle: Very Hard: 1  
 
- __Total:__ 70
+ __Total:__ 72
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -259,7 +259,11 @@ __Focus for today:__ Dynamic Programming
 
 <!----------------------->
 ## Day 22: October 6, 2019
-__Focus for today:__ Dynamic Programming
+__Focus for today:__ Dynamic Programming, Mock interview
 
 #### LeetCode
 * :large_blue_circle: [91-decode-ways.cpp](LeetCode/91-decode-ways.cpp) _Hint: Iterate backwards and count number of ways to decode if you combine two adjacent characters. Add up to index 0 and that's your answer._
+
+* :white_circle: [561-array-partition-i.cpp](LeetCode/561-array-partition-i.cpp) _Hint: What does sorting tell you?_
+
+* :white_circle: [7-reverse-integer.cpp](LeetCode/7-reverse-integer.cpp) _Hint: Remember that current digit comes from modulo operator. How do you check whether your current answer has overflowed, either in positive or negative directions?_
