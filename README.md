@@ -5,12 +5,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 25  
- :large_blue_circle: Medium: 34  
+ :white_circle: Easy: 26  
+ :large_blue_circle: Medium: 35  
  :red_circle: Hard: 8  
  :black_circle: Very Hard: 1  
 
- __Total:__ 68
+ __Total:__ 70
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -256,3 +256,10 @@ __Focus for today:__ Dynamic Programming
 
 #### LeetCode
 * :white_circle: [53-maximum-subarray.cpp](LeetCode/53-maximum-subarray.cpp) _Hint: Maximum subarray at i is max of current number or sum of previous max and current number._
+
+<!----------------------->
+## Day 22: October 6, 2019
+__Focus for today:__ Dynamic Programming
+
+#### LeetCode
+* :large_blue_circle: [91-decode-ways.cpp](LeetCode/91-decode-ways.cpp) _Hint: Iterate backwards and count number of ways to decode if you combine two adjacent characters. Add up to index 0 and that's your answer._
