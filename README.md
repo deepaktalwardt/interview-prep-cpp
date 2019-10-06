@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 25  
- :large_blue_circle: Medium: 33  
+ :large_blue_circle: Medium: 34  
  :red_circle: Hard: 8  
  :black_circle: Very Hard: 1  
 
- __Total:__ 67
+ __Total:__ 68
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -250,4 +250,4 @@ __Focus for today:__ Dynamic Programming
 #### AlgoExpert
 * :large_blue_circle: [maximum-subset-sum-with-no-adjacent-elements.cpp](AlgoExpert/maximum-subset-sum-with-no-adjacent-elements.cpp) _Hint: Iterate looking backwards. The current max is the max of either the max at previous index, or sum of current index and the max and previous to previous index._
 
-* :large_blue_circle: [number-of-ways-to-make-change.cpp](AlgoExpert/number-of-ways-to-make-change.cpp) _Hint: For d in denominations, check each amount 0-n and add ways possible._
+* :large_blue_circle: [number-of-ways-to-make-change.cpp](AlgoExpert/number-of-ways-to-make-change.cpp) _Hint: For d in denominations, check each amount 0-n and add ways possible.
