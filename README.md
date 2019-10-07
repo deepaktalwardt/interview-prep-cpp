@@ -267,3 +267,10 @@ __Focus for today:__ Dynamic Programming, Mock interview
 * :white_circle: [561-array-partition-i.cpp](LeetCode/561-array-partition-i.cpp) _Hint: What does sorting tell you?_
 
 * :white_circle: [7-reverse-integer.cpp](LeetCode/7-reverse-integer.cpp) _Hint: Remember that current digit comes from modulo operator. How do you check whether your current answer has overflowed, either in positive or negative directions?_
+
+<!----------------------->
+## Day 23: October 7, 2019
+__Focus for today:__ Dynamic Programming, Mock interview
+
+#### LeetCode
+* :large_blue_circle: [322-coin-change.cpp](LeetCode/322-coin-change.cpp) _Hint: Make a list from 0-n, and at each index find the min number of coins for change. Choose min of current value, and 1 + min ways to make change of the remainder after using a denomination._
