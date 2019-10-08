@@ -7,10 +7,10 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 29  
  :large_blue_circle: Medium: 41  
- :red_circle: Hard: 8  
+ :red_circle: Hard: 9  
  :black_circle: Very Hard: 1  
 
- __Total:__ 79
+ __Total:__ 80
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -277,3 +277,10 @@ __Focus for today:__ Dynamic Programming, Mock interview
 
 #### AlgoExpert
 79. :large_blue_circle: [levenshtein-distance.cpp](AlgoExpert/levenshtein-distance.cpp) _Hint: Remember to consider empty spaces at the beginning of strings. Initialize the first row and column. If current character in str1 is not equal to that in str2, add 1 to min of surrounding three. Else, copy the diagonal value as if the new character did not exist._
+
+<!----------------------->
+## Day 24: October 8, 2019
+__Focus for today:__ Graphs and review
+
+#### AlgoExpert
+80. :red_circle: [topological-sort.cpp](AlgoExpert/topological-sort.cpp) _Hint: Do recursive DFS and add each node after all of its pre-requisites are already in the list. To deal with cycles, keep track of nodes that are currently in the DFS stack._
