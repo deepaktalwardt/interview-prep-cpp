@@ -30,18 +30,18 @@ __Focus for today:__ Heaps/Priority Queues
  -->
 
 #### LeetCode
-1. * :large_blue_circle: [5-longest-palindromic-substring.cpp](LeetCode/5-longest-palindromic-substring.cpp) 
-2. * :large_blue_circle: [19-remove-nth-node-from-end-of-list.cpp](LeetCode/19-remove-nth-node-from-end-of-list.cpp) 
-3. * :white_circle: [21-merge-two-sorted-lists.cpp](LeetCode/21-merge-two-sorted-lists.cpp) 
-4. * :white_circle: [101-symmetric-tree.cpp](LeetCode/101-symmetric-tree.cpp) 
-5. * :white_circle: [104-maximum-depth-of-binary-tree.cpp](LeetCode/104-maximum-depth-of-binary-tree.cpp) 
-6. * :white_circle: [110-balanced-binary-tree.cpp](LeetCode/110-balanced-binary-tree.cpp) 
-7. * :white_circle: [118-pascals-triangle.cpp](LeetCode/118-pascals-triangle.cpp) 
-8. * :white_circle: [206-reverse-linked-list.cpp](LeetCode/206-reverse-linked-list.cpp) 
-9. * :white_circle: [226-invert-binary-tree.cpp](LeetCode/226-invert-binary-tree.cpp) 
-10. * :white_circle: [572-subtree-of-another-tree.cpp](LeetCode/572-subtree-of-another-tree.cpp) 
-11. * :white_circle: [617-merge-two-binary-trees.cpp](LeetCode/617-merge-two-binary-trees.cpp) 
-12. * :white_circle: [917-reverse-only-letters.cpp](LeetCode/917-reverse-only-letters.cpp) 
+1. :large_blue_circle: [5-longest-palindromic-substring.cpp](LeetCode/5-longest-palindromic-substring.cpp) 
+2. :large_blue_circle: [19-remove-nth-node-from-end-of-list.cpp](LeetCode/19-remove-nth-node-from-end-of-list.cpp) 
+3. :white_circle: [21-merge-two-sorted-lists.cpp](LeetCode/21-merge-two-sorted-lists.cpp) 
+4. :white_circle: [101-symmetric-tree.cpp](LeetCode/101-symmetric-tree.cpp) 
+5. :white_circle: [104-maximum-depth-of-binary-tree.cpp](LeetCode/104-maximum-depth-of-binary-tree.cpp) 
+6. :white_circle: [110-balanced-binary-tree.cpp](LeetCode/110-balanced-binary-tree.cpp) 
+7. :white_circle: [118-pascals-triangle.cpp](LeetCode/118-pascals-triangle.cpp) 
+8. :white_circle: [206-reverse-linked-list.cpp](LeetCode/206-reverse-linked-list.cpp) 
+9. :white_circle: [226-invert-binary-tree.cpp](LeetCode/226-invert-binary-tree.cpp) 
+10. :white_circle: [572-subtree-of-another-tree.cpp](LeetCode/572-subtree-of-another-tree.cpp) 
+11. :white_circle: [617-merge-two-binary-trees.cpp](LeetCode/617-merge-two-binary-trees.cpp) 
+12. :white_circle: [917-reverse-only-letters.cpp](LeetCode/917-reverse-only-letters.cpp) 
 
 #### AlgoExpert
 * :white_circle: [bubble-sort.cpp](AlgoExpert/bubble-sort.cpp) 
