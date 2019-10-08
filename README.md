@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 20/22 days
+# Completed: 21/23 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 28  
- :large_blue_circle: Medium: 35  
+ :large_blue_circle: Medium: 37  
  :red_circle: Hard: 8  
  :black_circle: Very Hard: 1  
 
- __Total:__ 72
+ __Total:__ 74
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -30,18 +30,18 @@ __Focus for today:__ Heaps/Priority Queues
  -->
 
 #### LeetCode
-* :large_blue_circle: [5-longest-palindromic-substring.cpp](LeetCode/5-longest-palindromic-substring.cpp) 
-* :large_blue_circle: [19-remove-nth-node-from-end-of-list.cpp](LeetCode/19-remove-nth-node-from-end-of-list.cpp) 
-* :white_circle: [21-merge-two-sorted-lists.cpp](LeetCode/21-merge-two-sorted-lists.cpp) 
-* :white_circle: [101-symmetric-tree.cpp](LeetCode/101-symmetric-tree.cpp) 
-* :white_circle: [104-maximum-depth-of-binary-tree.cpp](LeetCode/104-maximum-depth-of-binary-tree.cpp) 
-* :white_circle: [110-balanced-binary-tree.cpp](LeetCode/110-balanced-binary-tree.cpp) 
-* :white_circle: [118-pascals-triangle.cpp](LeetCode/118-pascals-triangle.cpp) 
-* :white_circle: [206-reverse-linked-list.cpp](LeetCode/206-reverse-linked-list.cpp) 
-* :white_circle: [226-invert-binary-tree.cpp](LeetCode/226-invert-binary-tree.cpp) 
-* :white_circle: [572-subtree-of-another-tree.cpp](LeetCode/572-subtree-of-another-tree.cpp) 
-* :white_circle: [617-merge-two-binary-trees.cpp](LeetCode/617-merge-two-binary-trees.cpp) 
-* :white_circle: [917-reverse-only-letters.cpp](LeetCode/917-reverse-only-letters.cpp) 
+1. * :large_blue_circle: [5-longest-palindromic-substring.cpp](LeetCode/5-longest-palindromic-substring.cpp) 
+2. * :large_blue_circle: [19-remove-nth-node-from-end-of-list.cpp](LeetCode/19-remove-nth-node-from-end-of-list.cpp) 
+3. * :white_circle: [21-merge-two-sorted-lists.cpp](LeetCode/21-merge-two-sorted-lists.cpp) 
+4. * :white_circle: [101-symmetric-tree.cpp](LeetCode/101-symmetric-tree.cpp) 
+5. * :white_circle: [104-maximum-depth-of-binary-tree.cpp](LeetCode/104-maximum-depth-of-binary-tree.cpp) 
+6. * :white_circle: [110-balanced-binary-tree.cpp](LeetCode/110-balanced-binary-tree.cpp) 
+7. * :white_circle: [118-pascals-triangle.cpp](LeetCode/118-pascals-triangle.cpp) 
+8. * :white_circle: [206-reverse-linked-list.cpp](LeetCode/206-reverse-linked-list.cpp) 
+9. * :white_circle: [226-invert-binary-tree.cpp](LeetCode/226-invert-binary-tree.cpp) 
+10. * :white_circle: [572-subtree-of-another-tree.cpp](LeetCode/572-subtree-of-another-tree.cpp) 
+11. * :white_circle: [617-merge-two-binary-trees.cpp](LeetCode/617-merge-two-binary-trees.cpp) 
+12. * :white_circle: [917-reverse-only-letters.cpp](LeetCode/917-reverse-only-letters.cpp) 
 
 #### AlgoExpert
 * :white_circle: [bubble-sort.cpp](AlgoExpert/bubble-sort.cpp) 
@@ -274,3 +274,6 @@ __Focus for today:__ Dynamic Programming, Mock interview
 
 #### LeetCode
 * :large_blue_circle: [322-coin-change.cpp](LeetCode/322-coin-change.cpp) _Hint: Make a list from 0-n, and at each index find the min number of coins for change. Choose min of current value, and 1 + min ways to make change of the remainder after using a denomination._
+
+#### AlgoExpert
+* :large_blue_circle: [levenshtein-distance.cpp](AlgoExpert/levenshtein-distance.cpp) _Hint: Remember to consider empty spaces at the beginning of strings. Initialize the first row and column. If current character in str1 is not equal to that in str2, add 1 to min of surrounding three. Else, copy the diagonal value as if the new character did not exist._
