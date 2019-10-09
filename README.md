@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 30  
- :large_blue_circle: Medium: 42  
+ :large_blue_circle: Medium: 43  
  :red_circle: Hard: 9  
  :black_circle: Very Hard: 2  
 
- __Total:__ 83
+ __Total:__ 84
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -289,4 +289,7 @@ __Focus for today:__ Graphs and review
 
 #### LeetCode
 82. :white_circle: [541-reverse-string-ii.cpp](LeetCode/541-reverse-string-ii.cpp) _Hint: Swap from `0-k`, then jump to index `2k`._
+
 83. :black_circle: [1192-critical-connections-in-a-network.cpp](LeetCode/1192-critical-connections-in-a-network.cpp) _Hint: (Tarjan's) Do DFS, and convert undirected edges to directed in the order of DFS. Keep track of node ids and lowest id traversable from a node. Bridge occurs when id of current node is less than lowest node that can be found by the neighbor._
+
+84. :large_blue_circle: [207-course-schedule.cpp](LeetCode/207-course-schedule.cpp) _Hint: Topological Sort. Keep track of cycles in pre-requisites by checking if the node you're currently checking is in the stack already. Remember to visit the node AFTER visiting all its neighbors._
