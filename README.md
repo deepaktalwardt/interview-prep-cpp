@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 30  
- :large_blue_circle: Medium: 41  
+ :large_blue_circle: Medium: 42  
  :red_circle: Hard: 9  
  :black_circle: Very Hard: 1  
 
- __Total:__ 81
+ __Total:__ 82
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -285,5 +285,7 @@ __Focus for today:__ Graphs and review
 #### AlgoExpert
 80. :red_circle: [topological-sort.cpp](AlgoExpert/topological-sort.cpp) _Hint: Do recursive DFS and add each node after all of its pre-requisites are already in the list. To deal with cycles, keep track of nodes that are currently in the DFS stack._
 
+81. :large_blue_circle: [kadanes-algorithm.cpp](AlgoExpert/kadanes-algorithm.cpp) _Hint: Maximum subarray at i is max of current number or sum of previous max and current number._
+
 #### LeetCode
-81. :white_circle: [541-reverse-string-ii.cpp](LeetCode/541-reverse-string-ii.cpp) _Hint: Swap from `0-k`, then jump to index `2k`._
+82. :white_circle: [541-reverse-string-ii.cpp](LeetCode/541-reverse-string-ii.cpp) _Hint: Swap from `0-k`, then jump to index `2k`._
