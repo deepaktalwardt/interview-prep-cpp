@@ -8,9 +8,9 @@ __Difficulty Levels solved__
  :white_circle: Easy: 30  
  :large_blue_circle: Medium: 42  
  :red_circle: Hard: 9  
- :black_circle: Very Hard: 1  
+ :black_circle: Very Hard: 2  
 
- __Total:__ 82
+ __Total:__ 83
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -289,3 +289,4 @@ __Focus for today:__ Graphs and review
 
 #### LeetCode
 82. :white_circle: [541-reverse-string-ii.cpp](LeetCode/541-reverse-string-ii.cpp) _Hint: Swap from `0-k`, then jump to index `2k`._
+83. :black_circle: [1192-critical-connections-in-a-network.cpp](LeetCode/1192-critical-connections-in-a-network.cpp) _Hint: (Tarjan's) Do DFS, and convert undirected edges to directed in the order of DFS. Keep track of node ids and lowest id traversable from a node. Bridge occurs when id of current node is less than lowest node that can be found by the neighbor._
