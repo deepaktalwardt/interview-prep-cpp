@@ -1,7 +1,7 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 22/24 days
+# Completed: 23/25 days
 
 __Difficulty Levels solved__
  
@@ -293,3 +293,8 @@ __Focus for today:__ Graphs and review
 83. :black_circle: [1192-critical-connections-in-a-network.cpp](LeetCode/1192-critical-connections-in-a-network.cpp) _Hint: (Tarjan's) Do DFS, and convert undirected edges to directed in the order of DFS. Keep track of node ids and lowest id traversable from a node. Bridge occurs when id of current node is less than lowest node that can be found by the neighbor._
 
 84. :large_blue_circle: [207-course-schedule.cpp](LeetCode/207-course-schedule.cpp) _Hint: Topological Sort. Keep track of cycles in pre-requisites by checking if the node you're currently checking is in the stack already. Remember to visit the node AFTER visiting all its neighbors._
+
+<!----------------------->
+## Day 25: October 9, 2019
+__Focus for today:__ Coding challenge from a Company
+
