@@ -5,12 +5,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 29  
+ :white_circle: Easy: 30  
  :large_blue_circle: Medium: 41  
  :red_circle: Hard: 9  
  :black_circle: Very Hard: 1  
 
- __Total:__ 80
+ __Total:__ 81
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -284,3 +284,6 @@ __Focus for today:__ Graphs and review
 
 #### AlgoExpert
 80. :red_circle: [topological-sort.cpp](AlgoExpert/topological-sort.cpp) _Hint: Do recursive DFS and add each node after all of its pre-requisites are already in the list. To deal with cycles, keep track of nodes that are currently in the DFS stack._
+
+#### LeetCode
+81. :white_circle: [541-reverse-string-ii.cpp](LeetCode/541-reverse-string-ii.cpp) _Hint: Swap from `0-k`, then jump to index `2k`._
