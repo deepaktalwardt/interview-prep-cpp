@@ -7,7 +7,7 @@ public:
     }
     
     string reverseStr(string s, int k) {
-        if (k == 0 || k == 1) return s;
+        if (k == 1) return s;
         for (int i = 0; i < s.size(); i += 2*k) {
             int firstIdx = i;
             int lastIdx = i + k - 1 < s.size() ? i + k - 1 : s.size() - 1;
