@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 23/25 days
+# Completed: 24/27 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 30  
  :large_blue_circle: Medium: 43  
- :red_circle: Hard: 9  
+ :red_circle: Hard: 10  
  :black_circle: Very Hard: 2  
 
- __Total:__ 84
+ __Total:__ 85
 
 ## Day 0
 Adding solutions to all problems I have already completed
