@@ -7,10 +7,10 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 30  
  :large_blue_circle: Medium: 43  
- :red_circle: Hard: 10  
+ :red_circle: Hard: 11  
  :black_circle: Very Hard: 2  
 
- __Total:__ 85
+ __Total:__ 86
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -316,3 +316,5 @@ __Focus for today:__ Dynamic Programming
 
 #### AlgoExpert
 85. :red_circle: [max-sum-increasing-subsequence.cpp](AlgoExpert/max-sum-increasing-subsequence.cpp) _Hint: At `i`, iterate from `0 to i-1` and check what the max sum increasing subsequence up until that point is. To build array, keep track of the previous index._
+
+86. :red_circle: [water-area.cpp](AlgoExpert/water-area.cpp) _Hint: At every index, find the left max pillar and the right max pillar, then calculating area at that level is easy._
