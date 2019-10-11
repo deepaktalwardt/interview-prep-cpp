@@ -315,4 +315,4 @@ Skipped. Midterm at school.
 __Focus for today:__ Dynamic Programming
 
 #### AlgoExpert
-85. :red_circle: [max-sum-increasing-subsequence.cpp](AlgoExpert/max-sum-increasing-subsequence.cpp) _Hint: At i, iterate from 0 to i-1 and check what the max sum increasing subsequence up until that point is. To build array, keep track of the previous index._
+85. :red_circle: [max-sum-increasing-subsequence.cpp](AlgoExpert/max-sum-increasing-subsequence.cpp) _Hint: At `i`, iterate from `0 to i-1` and check what the max sum increasing subsequence up until that point is. To build array, keep track of the previous index._
