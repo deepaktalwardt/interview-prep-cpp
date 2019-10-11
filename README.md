@@ -298,3 +298,14 @@ __Focus for today:__ Graphs and review
 ## Day 25: October 9, 2019
 __Focus for today:__ Coding challenge from a Company
 
+
+<!----------------------->
+## Day 26: October 9, 2019
+Skipped. Midterm at school.
+
+<!----------------------->
+## Day 27: October 9, 2019
+__Focus for today:__ Dynamic Programming
+
+#### AlgoExpert
+85. :red_circle: [max-sum-increasing-subsequence.cpp](AlgoExpert/max-sum-increasing-subsequence.cpp) _Hint: At i, iterate from 0 to i-1 and check what the max sum increasing subsequence up until that point is. To build array, keep track of the previous index._
