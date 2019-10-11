@@ -197,15 +197,22 @@ __Focus for today:__ Arrays and Strings, Graphs
 
 #### AlgoExpert
 59. :red_circle: [largest-range.cpp](AlgoExpert/largest-range.cpp) _Hint: Store everything in a data structure, and search forwards and backwards. Mark numbers you've already seen before._
+
 60a. :red_circle: [min-rewards.cpp](AlgoExpert/min-rewards.cpp) (Naive) _Hint: While going backwards, make sure to keep track of previous reward for that student! Choose the larger._
+
 60b. :red_circle: [min-rewards.cpp](AlgoExpert/min-rewards.cpp) (Peaks and Valleys) _Hint: Find valleys and iterate outwards incrementing rewards as you go. Don't forget to choose the larger between the previous and the new reward!_
+
 60c. :red_circle: [min-rewards.cpp](AlgoExpert/min-rewards.cpp) (Two sweep) _Hint: Sweep once from either direction, increment rewards only on positive slope! Don't forget to choose the larger between the previous and the new reward!_
 
 #### LeetCode
 61. :large_blue_circle: [994-rotting-oranges.cpp](LeetCode/994-rotting-oranges.cpp) _Hint: Use a datastructure to store depth for each newly rotten orange._
+
 62. :white_circle: [121-best-time-to-buy-and-sell-stock.cpp](LeetCode/121-best-time-to-buy-and-sell-stock.cpp) _Hint: Store the minimum so far and keep maximum difference at every time step._
+
 63. :white_circle: [88-merge-sorted-array.cpp](LeetCode/88-merge-sorted-array.cpp) _Hint: Do the merge step from mergesort from the back!._
+
 64. :white_circle: [283-move-zeroes.cpp](LeetCode/283-move-zeroes.cpp) _Hint: Use the fast/slow pointer approach! Keep track of where the last non-zero element was seen._
+
 65. :large_blue_circle: [11-container-with-most-water.cpp](LeetCode/11-container-with-most-water.cpp) _Hint: Traverse from both ends._
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
