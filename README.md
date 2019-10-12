@@ -305,13 +305,12 @@ __Focus for today:__ Graphs and review
 ## Day 25: October 9, 2019
 __Focus for today:__ Coding challenge from a Company
 
-
 <!----------------------->
-## Day 26: October 9, 2019
+## Day 26: October 10, 2019
 Skipped. Midterm at school.
 
 <!----------------------->
-## Day 27: October 9, 2019
+## Day 27: October 11, 2019
 __Focus for today:__ Dynamic Programming
 
 #### AlgoExpert
