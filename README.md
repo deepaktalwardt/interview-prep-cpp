@@ -320,4 +320,4 @@ __Focus for today:__ Dynamic Programming
 86. :red_circle: [water-area.cpp](AlgoExpert/water-area.cpp) _Hint: At every index, find the left max pillar and the right max pillar, then calculating area at that level is easy._
 
 #### LeetCode
-87. :red_circle: [42-trapping-rain-water.cpp](LeetCode/42-trapping-rain-water.cpp) _Hint: Extension of 86. Use only one array for holding the min if left max pillar and right max pillar._
+87. :red_circle: [42-trapping-rain-water.cpp](LeetCode/42-trapping-rain-water.cpp) _Hint: Extension of [water-area.cpp](AlgoExpert/water-area.cpp) Use only one array for holding the min if left max pillar and right max pillar._
