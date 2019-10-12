@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 24/27 days
+# Completed: 25/28 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 30  
  :large_blue_circle: Medium: 43  
- :red_circle: Hard: 12  
+ :red_circle: Hard: 13  
  :black_circle: Very Hard: 2  
 
- __Total:__ 87
+ __Total:__ 88
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -320,3 +320,9 @@ __Focus for today:__ Dynamic Programming
 
 #### LeetCode
 87. :red_circle: [42-trapping-rain-water.cpp](LeetCode/42-trapping-rain-water.cpp) _Hint: Extension of [water-area.cpp](AlgoExpert/water-area.cpp) Use only one array for holding the min if left max pillar and right max pillar._
+
+<!----------------------->
+## Day 28: October 12, 2019
+__Focus for today:__ Dynamic Programming
+
+88. :red_circle: [knapsack-problem.cpp](AlgoExpert/knapsack-problem.cpp) _Hint: Use a 2D array tracking maxValue possible with given items and given capacity size. Current max value is comes from either using the previous max value, or adding the current value with the max value obtained from adding the remainder into the knapsack. Build resulting array by backtracking from max value._
