@@ -1,8 +1,8 @@
 #include <vector>
 using namespace std;
 
-// Time: O(NM + min(N, M))
-// Space: O(NM + min(N, M))
+// Time: O(NM * min(N, M))
+// Space: O(NM * min(N, M))
 vector<char> longestCommonSubsequence(string str1, string str2) {
   // Write your code here.
 	vector<vector<vector<char>>> LCSs;
