@@ -339,4 +339,8 @@ Skipped. Preparing for midterm.
 ## Day 31: October 15, 2019
 __Focus for today:__ Dynamic Programming
 
+#### AlgoExpert
 89. :red_circle: [longest-common-subsequence.cpp](AlgoExpert/longest-common-subsequence.cpp) _Hint: Create a 3D array to keep track of common subsequences between arrays ending at each index. If current characters match, use the diagonal value and append current character to it. Else, use the longer of top or left._
+
+#### LeetCode
+90. :white_circle: [70-climbing-stairs.cpp](LeetCode/70-climbing-stairs.cpp) _Hint: To get to the current step, you can either go 1 step from the previous one, or two steps from the previous to previous one._
