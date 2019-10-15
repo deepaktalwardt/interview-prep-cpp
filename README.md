@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 25/28 days
+# Completed: 26/31 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 30  
  :large_blue_circle: Medium: 43  
- :red_circle: Hard: 13  
+ :red_circle: Hard: 14  
  :black_circle: Very Hard: 2  
 
- __Total:__ 88
+ __Total:__ 89
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -326,3 +326,17 @@ __Focus for today:__ Dynamic Programming
 __Focus for today:__ Dynamic Programming
 
 88. :red_circle: [knapsack-problem.cpp](AlgoExpert/knapsack-problem.cpp) _Hint: Use a 2D array tracking maxValue possible with given items and given capacity size. Current max value is comes from either using the previous max value, or adding the current value with the max value obtained from adding the remainder into the knapsack. Build resulting array by backtracking from max value._
+
+<!----------------------->
+## Day 29: October 13, 2019
+Skipped. Preparing for midterm.
+
+<!----------------------->
+## Day 30: October 14, 2019
+Skipped. Preparing for midterm.
+
+<!----------------------->
+## Day 31: October 15, 2019
+__Focus for today:__ Dynamic Programming
+
+89. :red_circle: [longest-common-subsequence.cpp](AlgoExpert/longest-common-subsequence.cpp) _Hint: Create a 3D array to keep track of common subsequences between arrays ending at each index. If current characters match, use the diagonal value and append current character to it. Else, use the longer of top or left._
