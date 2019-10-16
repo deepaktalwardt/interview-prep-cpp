@@ -8,9 +8,9 @@ __Difficulty Levels solved__
  :white_circle: Easy: 32  
  :large_blue_circle: Medium: 43  
  :red_circle: Hard: 14  
- :black_circle: Very Hard: 2  
+ :black_circle: Very Hard: 3  
 
- __Total:__ 91
+ __Total:__ 92
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -346,3 +346,10 @@ __Focus for today:__ Dynamic Programming
 90. :white_circle: [70-climbing-stairs.cpp](LeetCode/70-climbing-stairs.cpp) _Hint: To get to the current step, you can either take a single 1-step from the previous one, or a single 2-step from the previous to previous one._
 
 91. :white_circle: [746-min-cost-climbing-stairs.cpp](LeetCode/746-min-cost-climbing-stairs.cpp) _Hint: Cost of climbing to current step is sum of cost of being on this step and minimum of either the cost of coming from previous step or previous to previous step._
+
+<!----------------------->
+## Day 32: October 16, 2019
+__Focus for today:__ Dynamic Programming
+
+#### AlgoExpert
+92. :black_circle: [max-profit-with-k-transactions.cpp](AlgoExpert/max-profit-with-k-transactions.cpp) _Hint: Come back to this problem! Max profit at current transaction and day is obtained by either selling the stock or by not selling the stock and keeping the previous maximum. Keep track of max profit obtained thus far for each transaction._
