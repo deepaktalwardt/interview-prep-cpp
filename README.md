@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 32  
- :large_blue_circle: Medium: 43  
+ :large_blue_circle: Medium: 44  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 92
+ __Total:__ 93
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -353,3 +353,6 @@ __Focus for today:__ Dynamic Programming
 
 #### AlgoExpert
 92. :black_circle: [max-profit-with-k-transactions.cpp](AlgoExpert/max-profit-with-k-transactions.cpp) _Hint: Come back to this problem! Max profit at current transaction and day is obtained by either selling the stock or by not selling the stock and keeping the previous maximum. Keep track of max profit obtained thus far for each transaction._
+
+#### Pramp
+93. :large_blue_circle: [matrix-spiral-copy.cpp](Pramp/interview-4/matrix-spiral-copy.cpp) _Hint: Keep track of left, right, top and bottom boundaries and increment/decrement them as you go along._
