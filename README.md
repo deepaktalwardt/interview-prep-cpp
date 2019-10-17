@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 26/31 days
+# Completed: 28/33 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 32  
- :large_blue_circle: Medium: 44  
+ :large_blue_circle: Medium: 45  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 93
+ __Total:__ 94
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -356,3 +356,11 @@ __Focus for today:__ Dynamic Programming
 
 #### Pramp
 93. :large_blue_circle: [matrix-spiral-copy.cpp](Pramp/interview-4/matrix-spiral-copy.cpp) _Hint: Keep track of left, right, top and bottom boundaries and increment/decrement them as you go along._
+
+<!----------------------->
+## Day 33: October 17, 2019
+__Focus for today:__ Dynamic Programming and Graphs
+
+#### LeetCode
+94. :large_blue_circle: [1042-flower-planting-with-no-adjacent.cpp](LeetCode/1042-flower-planting-with-no-adjacent.cpp) _Hint: Do not overthink this one! Look at neighbors and assign yourself the first color available._
+
