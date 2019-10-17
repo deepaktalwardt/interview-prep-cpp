@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 32  
- :large_blue_circle: Medium: 45  
+ :large_blue_circle: Medium: 46  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 94
+ __Total:__ 95
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -363,4 +363,6 @@ __Focus for today:__ Dynamic Programming and Graphs
 
 #### LeetCode
 94. :large_blue_circle: [1042-flower-planting-with-no-adjacent.cpp](LeetCode/1042-flower-planting-with-no-adjacent.cpp) _Hint: Do not overthink this one! Look at neighbors and assign yourself the first color available._
+
+95. :large_blue_circle: [1079-letter-tile-possibilities.cpp](LeetCode/1079-letter-tile-possibilities.cpp) _Hint: First create a map with character counts. Then do recursive DFS and count by removing one character at a time and one length at a time._
 
