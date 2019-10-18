@@ -366,3 +366,9 @@ __Focus for today:__ Dynamic Programming and Graphs
 
 95. :large_blue_circle: [1079-letter-tile-possibilities.cpp](LeetCode/1079-letter-tile-possibilities.cpp) _Hint: First create a map with character counts. Then do recursive DFS and count by removing one character at a time and one length at a time._
 
+<!----------------------->
+## Day 34: October 18, 2019
+__Focus for today:__ Common Google problems
+
+#### LeetCode
+94. :large_blue_circle: [394-decode-string.cpp](LeetCode/394-decode-string.cpp) _Hint: Use two stacks, one for string and the other for numbers. Do the necessary things when you encounter a number, either of the brackets or just a character._
