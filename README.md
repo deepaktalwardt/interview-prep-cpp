@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 28/33 days
+# Completed: 29/34 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 32  
- :large_blue_circle: Medium: 46  
+ :large_blue_circle: Medium: 47  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 95
+ __Total:__ 96
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -371,4 +371,4 @@ __Focus for today:__ Dynamic Programming and Graphs
 __Focus for today:__ Common Google problems
 
 #### LeetCode
-94. :large_blue_circle: [394-decode-string.cpp](LeetCode/394-decode-string.cpp) _Hint: Use two stacks, one for string and the other for numbers. Do the necessary things when you encounter a number, either of the brackets or just a character._
+96. :large_blue_circle: [394-decode-string.cpp](LeetCode/394-decode-string.cpp) _Hint: Use two stacks, one for string and the other for numbers. Do the necessary things when you encounter a number, either of the brackets or just a character._
