@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 29/34 days
+# Completed: 30/35 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 32  
- :large_blue_circle: Medium: 48  
+ :large_blue_circle: Medium: 49  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 97
+ __Total:__ 98
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -374,3 +374,11 @@ __Focus for today:__ Common Google problems
 96. :large_blue_circle: [394-decode-string.cpp](LeetCode/394-decode-string.cpp) _Hint: Use two stacks, one for string and the other for numbers. Do the necessary things when you encounter a number, either of the brackets or just a character._
 
 97. :large_blue_circle: [139-word-break.cpp](LeetCode/139-word-break.cpp) _Hint: Think of it in terms of segmentation. A string can be segmented into words from dictionary if a part of it can be segmented, and the remaining directly exists in the dictionary._
+
+<!----------------------->
+## Day 35: October 19, 2019
+__Focus for today:__ Common Google problems
+
+#### LeetCode
+98. :large_blue_circle: [743-netwrk-delay-time.cpp](LeetCode/743-netwrk-delay-time.cpp) _Hint: Remember to check if the delay at any node can be updated to a smaller one!_
+
