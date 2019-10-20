@@ -392,4 +392,4 @@ __Focus for today:__ Common Google problems
 ## Day 36: October 20, 2019
 __Focus for today:__ Common Google problems
 
-102. :large_blue_circle: [253-meeting-rooms-ii.cpp](LeetCode/253-meeting-rooms-ii.cpp)
+102. :large_blue_circle: [253-meeting-rooms-ii.cpp](LeetCode/253-meeting-rooms-ii.cpp) _Hint: How can I use a min-heap for this? Use ending times in the heap to check what the earliest end time is._
