@@ -5,12 +5,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 33  
+ :white_circle: Easy: 34  
  :large_blue_circle: Medium: 49  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 99
+ __Total:__ 100
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -383,4 +383,6 @@ __Focus for today:__ Common Google problems
 98. :large_blue_circle: [743-netwrk-delay-time.cpp](LeetCode/743-netwrk-delay-time.cpp) _Hint: Remember to check if the delay at any node can be updated to a smaller one!_
 
 99. :white_circle: [551-student-attendance-record-i.cpp](LeetCode/551-student-attendance-record-i.cpp) _Hint: Don't need one._
+
+100. :white_circle: [359-logger-rate-limiter.cpp](LeetCode/359-logger-rate-limiter.cpp) _Hint: Just what it sounds like._
 
