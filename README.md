@@ -393,3 +393,5 @@ __Focus for today:__ Common Google problems
 __Focus for today:__ Common Google problems
 
 102. :large_blue_circle: [253-meeting-rooms-ii.cpp](LeetCode/253-meeting-rooms-ii.cpp) _Hint: How can I use a min-heap for this? Use ending times in the heap to check what the earliest end time is._
+
+103. :large_blue_circle: [221-maximal-square.cpp](LeetCode/221-maximal-square.cpp) _Hint: __Brute force:__ When you find one, assume square starts at top-left, keep expanding diagonally and record how many levels are valid (i.e., don't have a 0). __Dynamic Programming:__ For the current index to be part of a square, which previous conditions need to be true?_
