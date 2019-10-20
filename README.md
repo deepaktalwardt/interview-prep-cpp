@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 34  
- :large_blue_circle: Medium: 49  
+ :large_blue_circle: Medium: 50  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 100
+ __Total:__ 101
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -386,3 +386,4 @@ __Focus for today:__ Common Google problems
 
 100. :white_circle: [359-logger-rate-limiter.cpp](LeetCode/359-logger-rate-limiter.cpp) _Hint: Just what it sounds like._
 
+101. :large_blue_circle: [1055-shortest-way-to-form-string.cpp](LeetCode/1055-shortest-way-to-form-string.cpp) _Hint: Use a pointer each for both strings, compare characters and move accordingly. Keep track of how many characters you skip, if you skipped all of source string, return -1._
