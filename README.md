@@ -407,3 +407,11 @@ __Focus for today:__ Common Google problems
 
 #### AlgoExpert
 108. :large_blue_circle: [powerset.cpp](AlgoExpert/powerset.cpp) _Hint: Iteratively append the current element to all previously added subsets in the result._
+
+
+<!----------------------->
+## Day 37: October 21, 2019
+__Focus for today:__ Common Google problems
+
+#### LeetCode
+109. :white_circle: [299-bulls-and-cows.cpp](LeetCode/299-bulls-and-cows.cpp) _Hint: You can do it without `O(N)` additional space! Can you mark the already chosen ones?_
