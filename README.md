@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 34  
- :large_blue_circle: Medium: 51  
+ :large_blue_circle: Medium: 53  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 102
+ __Total:__ 104
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -395,3 +395,5 @@ __Focus for today:__ Common Google problems
 102. :large_blue_circle: [253-meeting-rooms-ii.cpp](LeetCode/253-meeting-rooms-ii.cpp) _Hint: How can I use a min-heap for this? Use ending times in the heap to check what the earliest end time is._
 
 103. :large_blue_circle: [221-maximal-square.cpp](LeetCode/221-maximal-square.cpp) _Hint: __Brute force:__ When you find one, assume square starts at top-left, keep expanding diagonally and record how many levels are valid (i.e., don't have a 0). __Dynamic Programming:__ For the current index to be part of a square, which previous conditions need to be true?_
+
+104. :large_blue_circle: [56-merge-intervals.cpp](LeetCode/56-merge-intervals.cpp) _Hint: Be careful in selecting what to compare the next index in the array with!_
