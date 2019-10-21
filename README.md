@@ -401,7 +401,7 @@ __Focus for today:__ Common Google problems
 
 105. :large_blue_circle: [939-minimum-area-rectangle.cpp](LeetCode/939-minimum-area-rectangle.cpp) _Hint: __Brute force:__ Create a map from string to Point and for each point, search for points in top-right and attempt to create a rectangle. If it forms, calculate its area._
 
-106. :large_blue_circle: [1007-minimum-domino-rotations-for-equal-row.cpp](LeetCode/1007-minimum-domino-rotations-for-equal-row.cpp) _Hint: Choose first values and iterate through the lists, first checking how many rotations would be needed for making row A equal to `A[0]` and then row B equal to `A[0]`. If not possible, try with `B[0]`_
+106. :large_blue_circle: [1007-minimum-domino-rotations-for-equal-row.cpp](LeetCode/1007-minimum-domino-rotations-for-equal-row.cpp) _Hint: Choose first values and iterate through the lists, first checking how many rotations would be needed for making row A equal to `A[0]` and then row B equal to `A[0]`. If not possible, try with `B[0]`._
 
 107. :white_circle: [867-transpose-matrix.cpp](LeetCode/867-transpose-matrix.cpp) _Hint: Copy from `[r][c]` to `[c][r]`._
 
