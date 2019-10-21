@@ -380,7 +380,7 @@ __Focus for today:__ Common Google problems
 __Focus for today:__ Common Google problems
 
 #### LeetCode
-98. :large_blue_circle: [743-netwrk-delay-time.cpp](LeetCode/743-netwrk-delay-time.cpp) _Hint: Remember to check if the delay at any node can be updated to a smaller one!_
+98. :large_blue_circle: [743-network-delay-time.cpp](LeetCode/743-network-delay-time.cpp) _Hint: Remember to check if the delay at any node can be updated to a smaller one!_
 
 99. :white_circle: [551-student-attendance-record-i.cpp](LeetCode/551-student-attendance-record-i.cpp) _Hint: Don't need one._
 
