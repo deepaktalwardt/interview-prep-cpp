@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 34  
- :large_blue_circle: Medium: 55  
+ :large_blue_circle: Medium: 56  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 106
+ __Total:__ 107
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -401,5 +401,7 @@ __Focus for today:__ Common Google problems
 
 105. :large_blue_circle: [939-minimum-area-rectangle.cpp](LeetCode/939-minimum-area-rectangle.cpp) _Hint: __Brute force:__ Create a map from string to Point and for each point, search for points in top-right and attempt to create a rectangle. If it forms, calculate its area._
 
+106. :large_blue_circle: [1007-minimum-domino-rotations-for-equal-row.cpp](LeetCode/1007-minimum-domino-rotations-for-equal-row.cpp) _Hint: Choose first values and iterate through the lists, first checking how many rotations would be needed for making row A equal to `A[0]` and then row B equal to `A[0]`. If not possible, try with `B[0]`_
+
 #### AlgoExpert
-106. :large_blue_circle: [powerset.cpp](AlgoExpert/powerset.cpp) _Hint: Iteratively append the current element to all previously added subsets in the result._
+107. :large_blue_circle: [powerset.cpp](AlgoExpert/powerset.cpp) _Hint: Iteratively append the current element to all previously added subsets in the result._
