@@ -1,3 +1,27 @@
+// Time: O(N), Space: O(1)
+class Solution {
+public:
+    string getHint(string secret, string guess) {
+        int bulls = 0;
+        int cows = 0;
+        for (int i = 0; i < secret.size(); i++) {
+            if (secret[i] == guess[i]) {
+                secret[i] = '$';
+                guess[i] = '$';
+                bulls++;
+            }
+        }
+        for (int k = 0; k < secret.size(); k++) {
+            if (secret[k] == '$') continue;
+            int idx = guess.find_first_of(secret[k], 0);
+            if (idx != string::npos) {
+                cows++;
+                guess[idx] = '!';
+            }
+        }
+        return to_string(bulls) + "A" + to_string(cows) + "B";
+    }
+};
 
 // Time: O(N), Space: O(N)
 class Solution {
