@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 30/35 days
+# Completed: 31/36 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 34  
- :large_blue_circle: Medium: 53  
+ :large_blue_circle: Medium: 54  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 104
+ __Total:__ 105
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -397,3 +397,5 @@ __Focus for today:__ Common Google problems
 103. :large_blue_circle: [221-maximal-square.cpp](LeetCode/221-maximal-square.cpp) _Hint: __Brute force:__ When you find one, assume square starts at top-left, keep expanding diagonally and record how many levels are valid (i.e., don't have a 0). __Dynamic Programming:__ For the current index to be part of a square, which previous conditions need to be true?_
 
 104. :large_blue_circle: [56-merge-intervals.cpp](LeetCode/56-merge-intervals.cpp) _Hint: Be careful in selecting what to compare the next index in the array with!_
+
+105. :large_blue_circle: [939-minimum-area-rectangle.cpp](LeetCode/939-minimum-area-rectangle.cpp) _Hint: __Brute force:__ Create a map from string to Point and for each point, search for points in top-right and attempt to create a rectangle. If it forms, calculate its area._
