@@ -1,7 +1,7 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 32/37 days
+# Completed: 33/40 days
 
 __Difficulty Levels solved__
  
@@ -415,3 +415,14 @@ __Focus for today:__ Common Google problems
 
 #### LeetCode
 109. :white_circle: [299-bulls-and-cows.cpp](LeetCode/299-bulls-and-cows.cpp) _Hint: You can do it without `O(N)` additional space! Can you mark the already chosen ones?_
+
+<!----------------------->
+## Day 38: October 22, 2019
+Skipped, preparing for project assignment.
+
+<!----------------------->
+## Day 39: October 23, 2019
+Skipped, preparing for project assignment.
+
+<!----------------------->
+## Day 40: October 24, 2019
