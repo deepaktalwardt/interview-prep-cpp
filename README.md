@@ -426,4 +426,4 @@ Skipped, preparing for project assignment.
 
 <!----------------------->
 ## Day 40: October 24, 2019
-110. :blue_circle: [281-zigzag-iterator.cpp](LeetCode/281-zigzag-iterator.cpp) _Hint: You don't need two pointers._
+110. :large_blue_circle: [281-zigzag-iterator.cpp](LeetCode/281-zigzag-iterator.cpp) _Hint: You don't need two pointers._
