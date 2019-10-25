@@ -437,4 +437,4 @@ __Focus for today:__ Common questions
 #### AlgoExpert
 111. :white_circle: [find-largest-three-numbers.cpp](AlgoExpert/find-largest-three-numbers.cpp) _Hint: Use a min-heap to keep track of largest three._
 
-112. :large_blue_circle: [search-in-sorted-matrix.cpp](AlgoExpert/search-in-sorted-matrix.cpp) _Hint: Binary search every row in range._
+112. :large_blue_circle: [search-in-sorted-matrix.cpp](AlgoExpert/search-in-sorted-matrix.cpp) _Hint: At every index you can ignore either a row or column if it is not equal to target._
