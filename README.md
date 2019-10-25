@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 36  
- :large_blue_circle: Medium: 56  
+ :large_blue_circle: Medium: 57  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 109
+ __Total:__ 110
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -426,3 +426,4 @@ Skipped, preparing for project assignment.
 
 <!----------------------->
 ## Day 40: October 24, 2019
+110. :blue_circle: [281-zigzag-iterator.cpp](LeetCode/281-zigzag-iterator.cpp) _Hint: You don't need two pointers._
