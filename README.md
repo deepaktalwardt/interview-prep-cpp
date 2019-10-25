@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 33/40 days
+# Completed: 34/41 days
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 36  
+ :white_circle: Easy: 37  
  :large_blue_circle: Medium: 57  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 110
+ __Total:__ 111
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -426,4 +426,13 @@ Skipped, preparing for project assignment.
 
 <!----------------------->
 ## Day 40: October 24, 2019
+__Focus for today:__ Mock interview
+
 110. :large_blue_circle: [281-zigzag-iterator.cpp](LeetCode/281-zigzag-iterator.cpp) _Hint: You don't need two pointers._
+
+<!----------------------->
+## Day 41: October 25, 2019
+__Focus for today:__ Common questions
+
+#### AlgoExpert
+111. :white_circle: [find-largest-three-numbers.cpp](AlgoExpert/find-largest-three-numbers.cpp) _Hint: Use a min-heap to keep track of largest three._
