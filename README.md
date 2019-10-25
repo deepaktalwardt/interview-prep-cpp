@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 37  
- :large_blue_circle: Medium: 57  
+ :large_blue_circle: Medium: 58  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 111
+ __Total:__ 112
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -436,3 +436,5 @@ __Focus for today:__ Common questions
 
 #### AlgoExpert
 111. :white_circle: [find-largest-three-numbers.cpp](AlgoExpert/find-largest-three-numbers.cpp) _Hint: Use a min-heap to keep track of largest three._
+
+112. :large_blue_circle: [search-in-sorted-matrix.cpp](AlgoExpert/search-in-sorted-matrix.cpp) _Hint: Binary search every row in range._
