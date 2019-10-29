@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 34/41 days
+# Completed: 35/45 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 37  
- :large_blue_circle: Medium: 58  
+ :large_blue_circle: Medium: 59  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 112
+ __Total:__ 113
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -437,4 +437,22 @@ __Focus for today:__ Common questions
 #### AlgoExpert
 111. :white_circle: [find-largest-three-numbers.cpp](AlgoExpert/find-largest-three-numbers.cpp) _Hint: Use a min-heap to keep track of largest three._
 
-112. :large_blue_circle: [search-in-sorted-matrix.cpp](AlgoExpert/search-in-sorted-matrix.cpp) _Hint: At every index you can ignore either a row or column if it is not equal to target._
+112. :large_blue_circle: [search-in-sorted-matrix.cpp](AlgoExpert/search-in-sorted-matrix.cpp) _Hint: At each iteration you can ignore either a row or column if it is not equal to target._
+
+<!----------------------->
+## Day 42: October 26, 2019
+Skipped: Attending CalHacks
+
+<!----------------------->
+## Day 43: October 27, 2019
+Skipped: Attending CalHacks
+
+<!----------------------->
+## Day 44: October 28, 2019
+Skipped: Attending CalHacks
+
+<!----------------------->
+## Day 45: October 29, 2019
+
+#### LeetCode
+113. :large_blue_circle: [240-search-a-2d-matrix-ii.cpp](LeetCode/240-search-a-2d-matrix-ii.cpp) _Hint: Which corner do you want to start at? A corner that tells you more about which row or column you can ignore._

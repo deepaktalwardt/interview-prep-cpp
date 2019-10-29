@@ -1,3 +1,26 @@
+// Time: O(log mn) Space: O(1)
+#include <vector>
+#include <iostream>
+using namespace std;
+
+vector<int> searchInSortedMatrix(vector<vector<int> > matrix, int target) {
+  // Write your code here.
+	int rows = matrix.size();
+	int cols = matrix[0].size();
+	int currCol = cols - 1;
+	int currRow = 0;
+	while (matrix[currRow][currCol] != target && currRow <= rows && currCol >= 0) {
+		if (matrix[currRow][currCol] > target) {
+			currCol--;
+		} else if (matrix[currRow][currCol < target]) {
+			currRow++;
+		}
+	}
+	if (currRow >= rows || currCol < 0) return {-1, -1};
+	return {currRow, currCol};
+}
+
+// Time: O(m log n), Space: O(1)
 #include <vector>
 #include <iostream>
 using namespace std;
