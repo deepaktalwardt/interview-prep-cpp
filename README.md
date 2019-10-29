@@ -458,3 +458,5 @@ Skipped: Attending CalHacks
 113. :large_blue_circle: [240-search-a-2d-matrix-ii.cpp](LeetCode/240-search-a-2d-matrix-ii.cpp) _Hint: Which corner do you want to start at? A corner that tells you more about which row or column you can ignore._
 
 114. :large_blue_circle: [74-search-a-2d-matrix.cpp](LeetCode/74-search-a-2d-matrix.cpp) _Hint: Find the correct row to search!_
+
+115. :large_blue_circle: [531-lonely-pixel-i.cpp](LeetCode/531-lonely-pixel-i.cpp) _Hint: Two passes are fine!_
