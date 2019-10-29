@@ -462,3 +462,6 @@ Skipped: Attending CalHacks
 115. :large_blue_circle: [531-lonely-pixel-i.cpp](LeetCode/531-lonely-pixel-i.cpp) _Hint: Two passes are fine!_
 
 116. :white_circle: [141-linked-list-cycle.cpp](LeetCode/141-linked-list-cycle.cpp) _Hint: Make two pointers race._
+
+#### AlgoExpert
+117. :large_blue_circle: [balanced-brackets.cpp](AlgoExpert/balanced-brackets.cpp) _Hint: What are the cases when brackets are not balanced?_
