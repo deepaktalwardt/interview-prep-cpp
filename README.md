@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 37  
- :large_blue_circle: Medium: 59  
+ :large_blue_circle: Medium: 60  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 113
+ __Total:__ 114
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -456,3 +456,5 @@ Skipped: Attending CalHacks
 
 #### LeetCode
 113. :large_blue_circle: [240-search-a-2d-matrix-ii.cpp](LeetCode/240-search-a-2d-matrix-ii.cpp) _Hint: Which corner do you want to start at? A corner that tells you more about which row or column you can ignore._
+
+114. :large_blue_circle: [74-search-a-2d-matrix.cpp](LeetCode/74-search-a-2d-matrix.cpp) _Hint: Find the correct row to search!_
