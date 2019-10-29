@@ -5,12 +5,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 37  
- :large_blue_circle: Medium: 60  
+ :white_circle: Easy: 38  
+ :large_blue_circle: Medium: 61  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 114
+ __Total:__ 116
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -460,3 +460,5 @@ Skipped: Attending CalHacks
 114. :large_blue_circle: [74-search-a-2d-matrix.cpp](LeetCode/74-search-a-2d-matrix.cpp) _Hint: Find the correct row to search!_
 
 115. :large_blue_circle: [531-lonely-pixel-i.cpp](LeetCode/531-lonely-pixel-i.cpp) _Hint: Two passes are fine!_
+
+116. :white_circle: [141-linked-list-cycle.cpp](LeetCode/141-linked-list-cycle.cpp) _Hint: Make two pointers race._
