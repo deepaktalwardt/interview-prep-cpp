@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 35/45 days
+# Completed: 36/46 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 39  
- :large_blue_circle: Medium: 62  
+ :large_blue_circle: Medium: 63  
  :red_circle: Hard: 15  
  :black_circle: Very Hard: 3  
 
- __Total:__ 119
+ __Total:__ 120
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -469,3 +469,9 @@ Skipped: Attending CalHacks
 
 #### AlgoExpert
 119. :large_blue_circle: [balanced-brackets.cpp](AlgoExpert/balanced-brackets.cpp) _Hint: What are the cases when brackets are not balanced?_
+
+<!----------------------->
+## Day 46: October 30, 2019
+
+#### LeetCode
+120. :large_blue_circle: [79-word-search.cpp](LeetCode/79-word-search.cpp) _Hint: What happens if you go down the wrong path and need to reset back to the valid path? Backtracking!_
