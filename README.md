@@ -5,12 +5,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 38  
+ :white_circle: Easy: 39  
  :large_blue_circle: Medium: 62  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 3  
 
- __Total:__ 117
+ __Total:__ 118
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -463,5 +463,7 @@ Skipped: Attending CalHacks
 
 116. :white_circle: [141-linked-list-cycle.cpp](LeetCode/141-linked-list-cycle.cpp) _Hint: Make two pointers race._
 
+117. :white_circle: [198-house-robber.cpp](LeetCode/198-house-robber.cpp) _Hint: What is the max profit at second position?_
+
 #### AlgoExpert
-117. :large_blue_circle: [balanced-brackets.cpp](AlgoExpert/balanced-brackets.cpp) _Hint: What are the cases when brackets are not balanced?_
+118. :large_blue_circle: [balanced-brackets.cpp](AlgoExpert/balanced-brackets.cpp) _Hint: What are the cases when brackets are not balanced?_
