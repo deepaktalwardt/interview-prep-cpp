@@ -7,10 +7,10 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 39  
  :large_blue_circle: Medium: 63  
- :red_circle: Hard: 15  
+ :red_circle: Hard: 16  
  :black_circle: Very Hard: 3  
 
- __Total:__ 120
+ __Total:__ 121
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -475,3 +475,5 @@ Skipped: Attending CalHacks
 
 #### LeetCode
 120. :large_blue_circle: [79-word-search.cpp](LeetCode/79-word-search.cpp) _Hint: What happens if you go down the wrong path and need to reset back to the valid path? Backtracking!_
+
+121. :red_circle: [308-range-sum-query-2d-mutable.cpp](LeetCode/308-range-sum-query-2d-mutable.cpp) _Hint: There is a dynamic programming way to do later._
