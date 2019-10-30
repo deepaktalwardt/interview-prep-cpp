@@ -7,10 +7,10 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 39  
  :large_blue_circle: Medium: 62  
- :red_circle: Hard: 14  
+ :red_circle: Hard: 15  
  :black_circle: Very Hard: 3  
 
- __Total:__ 118
+ __Total:__ 119
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -465,5 +465,7 @@ Skipped: Attending CalHacks
 
 117. :white_circle: [198-house-robber.cpp](LeetCode/198-house-robber.cpp) _Hint: What is the max profit at second position?_
 
+118. :red_circle: [124-binary-tree-maximum-path-sum.cpp](LeetCode/124-binary-tree-maximum-path-sum.cpp) _Hint: Keep a global max._
+
 #### AlgoExpert
-118. :large_blue_circle: [balanced-brackets.cpp](AlgoExpert/balanced-brackets.cpp) _Hint: What are the cases when brackets are not balanced?_
+119. :large_blue_circle: [balanced-brackets.cpp](AlgoExpert/balanced-brackets.cpp) _Hint: What are the cases when brackets are not balanced?_
