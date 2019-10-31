@@ -479,3 +479,9 @@ Skipped: Attending CalHacks
 121. :red_circle: [308-range-sum-query-2d-mutable.cpp](LeetCode/308-range-sum-query-2d-mutable.cpp) _Hint: There is a dynamic programming way to do later._
 
 122. :white_circle: [26-remove-duplicates-from-sorted-array.cpp](LeetCode/26-remove-duplicates-from-sorted-array.cpp) _Hint: Use two pointers and keep the slow pointer as the end of the array you return._
+
+<!----------------------->
+## Day 47: October 31, 2019
+
+#### Pramp
+123. :large_blue_circle: [sales-path.cpp](Pramp/interview-5/sales-path.cpp) _Hint: Same as finding min cost path._
