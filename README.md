@@ -5,12 +5,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 39  
+ :white_circle: Easy: 40  
  :large_blue_circle: Medium: 63  
  :red_circle: Hard: 16  
  :black_circle: Very Hard: 3  
 
- __Total:__ 121
+ __Total:__ 122
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -477,3 +477,5 @@ Skipped: Attending CalHacks
 120. :large_blue_circle: [79-word-search.cpp](LeetCode/79-word-search.cpp) _Hint: What happens if you go down the wrong path and need to reset back to the valid path? Backtracking!_
 
 121. :red_circle: [308-range-sum-query-2d-mutable.cpp](LeetCode/308-range-sum-query-2d-mutable.cpp) _Hint: There is a dynamic programming way to do later._
+
+122. :white_circle: [26-remove-duplicates-from-sorted-array.cpp](LeetCode/26-remove-duplicates-from-sorted-array.cpp) _Hint: Use two pointers and keep the slow pointer as the end of the array you return._
