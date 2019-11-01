@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 36/46 days
+# Completed: 37/47 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 40  
- :large_blue_circle: Medium: 63  
+ :large_blue_circle: Medium: 65  
  :red_circle: Hard: 16  
  :black_circle: Very Hard: 3  
 
- __Total:__ 122
+ __Total:__ 124
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -485,3 +485,6 @@ Skipped: Attending CalHacks
 
 #### Pramp
 123. :large_blue_circle: [sales-path.cpp](Pramp/interview-5/sales-path.cpp) _Hint: Same as finding min cost path._
+
+#### LeetCode
+124. :large_blue_circle: [105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp](LeetCode/105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp) _Hint: Identify which nodes belong to the right and left subtree in both traversals._
