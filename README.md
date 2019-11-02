@@ -7,10 +7,10 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 40  
  :large_blue_circle: Medium: 67  
- :red_circle: Hard: 16  
+ :red_circle: Hard: 17  
  :black_circle: Very Hard: 3  
 
- __Total:__ 126
+ __Total:__ 127
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -501,3 +501,6 @@ Skipped, working on assignment.
 
 #### LeetCode
 126. :large_blue_circle: [238-product-of-array-except-self.cpp](LeetCode/238-product-of-array-except-self.cpp) _Hint: Forwards and backwards pass._
+
+#### AlgoExpert
+127. :red_circle: [find-loop.cpp](AlgoExpert/find-loop.cpp) _Hint: Do the math! Find the relation between where you are and where the intersection is. Then move one of the pointers to the head and traverse both at the same speed._
