@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 40  
- :large_blue_circle: Medium: 66  
+ :large_blue_circle: Medium: 67  
  :red_circle: Hard: 16  
  :black_circle: Very Hard: 3  
 
- __Total:__ 125
+ __Total:__ 126
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -495,4 +495,9 @@ Skipped, working on assignment.
 
 <!----------------------->
 ## Day 49: November 2, 2019
+
+#### Pramp
 125. :large_blue_circle: [array-of-array-products.cpp](Pramp/interview-6/array-of-array-products.cpp) _Hint: Forwards and Backwards pass._
+
+#### LeetCode
+126. :large_blue_circle: [238-product-of-array-except-self.cpp](LeetCode/238-product-of-array-except-self.cpp) _Hint: Forwards and backwards pass._
