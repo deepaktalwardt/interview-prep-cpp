@@ -7,10 +7,10 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 40  
  :large_blue_circle: Medium: 67  
- :red_circle: Hard: 17  
+ :red_circle: Hard: 18  
  :black_circle: Very Hard: 3  
 
- __Total:__ 127
+ __Total:__ 128
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -504,3 +504,5 @@ Skipped, working on assignment.
 
 #### AlgoExpert
 127. :red_circle: [find-loop.cpp](AlgoExpert/find-loop.cpp) _Hint: Do the math! Find the relation between where you are and where the intersection is. Then move one of the pointers to the head and traverse both at the same speed._
+
+128. :red_circle: [shifted-binarySearch.cpp](AlgoExpert/shifted-binarySearch.cpp) _Hint: Add an extra condition to choose where to perform binary search._
