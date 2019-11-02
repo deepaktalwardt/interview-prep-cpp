@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 40  
- :large_blue_circle: Medium: 65  
+ :large_blue_circle: Medium: 66  
  :red_circle: Hard: 16  
  :black_circle: Very Hard: 3  
 
- __Total:__ 124
+ __Total:__ 125
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -488,3 +488,11 @@ Skipped: Attending CalHacks
 
 #### LeetCode
 124. :large_blue_circle: [105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp](LeetCode/105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp) _Hint: Identify which nodes belong to the right and left subtree in both traversals._
+
+<!----------------------->
+## Day 48: November 1, 2019
+Skipped, working on assignment.
+
+<!----------------------->
+## Day 49: November 2, 2019
+125. :large_blue_circle: [array-of-array-products.cpp](Pramp/interview-6/array-of-array-products.cpp) _Hint: Forwards and Backwards pass._
