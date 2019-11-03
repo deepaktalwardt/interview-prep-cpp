@@ -505,7 +505,7 @@ Skipped, working on assignment.
 #### AlgoExpert
 127. :red_circle: [find-loop.cpp](AlgoExpert/find-loop.cpp) _Hint: Do the math! Find the relation between where you are and where the intersection is. Then move one of the pointers to the head and traverse both at the same speed._
 
-128. :red_circle: [shifted-binarySearch.cpp](AlgoExpert/shifted-binarySearch.cpp) _Hint: Add an extra condition to choose where to perform binary search._
+128. :red_circle: [shifted-binary-search.cpp](AlgoExpert/shifted-binary-search.cpp) _Hint: Add an extra condition to choose where to perform binary search._
 
 <!----------------------->
 ## Day 50: November 3, 2019
