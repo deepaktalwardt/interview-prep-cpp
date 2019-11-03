@@ -7,10 +7,10 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 40  
  :large_blue_circle: Medium: 67  
- :red_circle: Hard: 19  
+ :red_circle: Hard: 20  
  :black_circle: Very Hard: 3  
 
- __Total:__ 129
+ __Total:__ 130
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -512,3 +512,5 @@ Skipped, working on assignment.
 
 #### AlgoExpert
 129. :red_circle: [min-number-of-jumps.cpp](AlgoExpert/min-number-of-jumps.cpp) _Hint: Keep track of `maxReach` and `steps` available to take with the given number of jumps._
+
+130. :red_circle: [longest-substring-without-duplication.cpp](AlgoExpert/longest-substring-without-duplication.cpp) _Hint: Keep last seen index of each character in an `unordered_map` and update the `startIdx` when the current character already exists in the map._
