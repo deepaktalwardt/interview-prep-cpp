@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 38/49 days
+# Completed: 39/50 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 40  
  :large_blue_circle: Medium: 67  
- :red_circle: Hard: 18  
+ :red_circle: Hard: 19  
  :black_circle: Very Hard: 3  
 
- __Total:__ 128
+ __Total:__ 129
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -506,3 +506,9 @@ Skipped, working on assignment.
 127. :red_circle: [find-loop.cpp](AlgoExpert/find-loop.cpp) _Hint: Do the math! Find the relation between where you are and where the intersection is. Then move one of the pointers to the head and traverse both at the same speed._
 
 128. :red_circle: [shifted-binarySearch.cpp](AlgoExpert/shifted-binarySearch.cpp) _Hint: Add an extra condition to choose where to perform binary search._
+
+<!----------------------->
+## Day 50: November 3, 2019
+
+#### AlgoExpert
+129. :red_circle: [min-number-of-jumps.cpp](AlgoExpert/min-number-of-jumps.cpp) _Hint: Keep track of `maxReach` and `steps` available to take with the given number of jumps._
