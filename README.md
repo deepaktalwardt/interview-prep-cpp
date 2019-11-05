@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 40  
- :large_blue_circle: Medium: 69  
+ :large_blue_circle: Medium: 70  
  :red_circle: Hard: 20  
  :black_circle: Very Hard: 3  
 
- __Total:__ 132
+ __Total:__ 133
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -526,3 +526,5 @@ Skipped, midterm at school.
 131. :large_blue_circle: [3-longest-substring-without-repeating-characters.cpp](LeetCode/3-longest-substring-without-repeating-characters.cpp) _Hint: Check for `maxLen` at every index, and update the `startIdx` every time you find a character that already exists in the map._
 
 132. :large_blue_circle: [289-game-of-life.cpp](LeetCode/289-game-of-life.cpp) _Hint: How can you encode the transitions between states in place?_
+
+133. :large_blue_circle: [33-search-in-rotated-sorted-array.cpp](LeetCode/33-search-in-rotated-sorted-array.cpp) _Hint: If left array is not sorted, right must be sorted, and vice versa!_
