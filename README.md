@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 40  
- :large_blue_circle: Medium: 72  
+ :large_blue_circle: Medium: 73  
  :red_circle: Hard: 20  
  :black_circle: Very Hard: 3  
 
- __Total:__ 135
+ __Total:__ 136
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -537,3 +537,9 @@ Skipped, midterm at school.
 
 #### LeetCode
 135. :large_blue_circle: [81-search-in-rotated-sorted-array-ii.cpp](LeetCode/81-search-in-rotated-sorted-array-ii.cpp) _Hint: Think about what you should do when left index and middle index are the same value._
+
+<!----------------------->
+## Day 54: November 7, 2019
+
+#### EPI
+136. :large_blue_circle: [rook_attack.cpp](EPI/rook_attack.cpp) _Hint: Two passes are fine._
