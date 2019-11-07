@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 40/52 days
+# Completed: 41/53 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 40  
- :large_blue_circle: Medium: 70  
+ :large_blue_circle: Medium: 72  
  :red_circle: Hard: 20  
  :black_circle: Very Hard: 3  
 
- __Total:__ 133
+ __Total:__ 135
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -528,3 +528,12 @@ Skipped, midterm at school.
 132. :large_blue_circle: [289-game-of-life.cpp](LeetCode/289-game-of-life.cpp) _Hint: How can you encode the transitions between states in place?_
 
 133. :large_blue_circle: [33-search-in-rotated-sorted-array.cpp](LeetCode/33-search-in-rotated-sorted-array.cpp) _Hint: If left array is not sorted, right must be sorted, and vice versa!_
+
+<!----------------------->
+## Day 53: November 6, 2019
+
+#### EPI
+134. :large_blue_circle: [string-match.cpp](EPI/string-match.cpp) _Hint: How can you use hashing?_
+
+#### LeetCode
+135. :large_blue_circle: [81-search-in-rotated-sorted-array-ii.cpp](LeetCode/81-search-in-rotated-sorted-array-ii.cpp) _Hint: Think about what you should do when left index and middle index are the same value._
