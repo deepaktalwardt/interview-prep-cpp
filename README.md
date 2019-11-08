@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 40  
- :large_blue_circle: Medium: 74  
+ :large_blue_circle: Medium: 75  
  :red_circle: Hard: 20  
  :black_circle: Very Hard: 3  
 
- __Total:__ 137
+ __Total:__ 138
 
 ## Day 0
 Adding solutions to all problems I have already completed
