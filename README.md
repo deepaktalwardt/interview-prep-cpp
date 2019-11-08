@@ -546,3 +546,5 @@ Skipped, midterm at school.
 
 #### LeetCode
 137. :large_blue_circle: [841-keys-and-rooms.cpp](LeetCode/841-keys-and-rooms.cpp) _Hint: Can you find a path to all rooms?_
+
+138. :large_blue_circle: [560-subarray-sum-equals-k.cpp](LeetCode/560-subarray-sum-equals-k.cpp) _Hint: Keep track of sums from 0 to i._
