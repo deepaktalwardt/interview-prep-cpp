@@ -6,11 +6,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 42  
- :large_blue_circle: Medium: 75  
+ :large_blue_circle: Medium: 76  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
 
- __Total:__ 141
+ __Total:__ 142
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -575,3 +575,5 @@ Break
 140. :white_circle: [953-verifying-an-alien-dictionary.cpp](LeetCode/953-verifying-an-alien-dictionary.cpp) _Hint: Store the order in a map._
 
 141. :white_circle: [997-find-the-town-judge.cpp](LeetCode/997-find-the-town-judge.cpp) _Hint: Find incoming and outgoing degrees._
+
+142. :large_blue_circle: [277-find-the-celebrity.cpp](LeetCode/277-find-the-celebrity.cpp) _Hint: Find a candidate and verify, else cannot be found._
