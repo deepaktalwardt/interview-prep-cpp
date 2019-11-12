@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 43/58 days
+# Completed: 44/59 days
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 40  
+ :white_circle: Easy: 41  
  :large_blue_circle: Medium: 75  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
 
- __Total:__ 139
+ __Total:__ 140
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -567,3 +567,9 @@ Break
 
 #### AlgoExpert
 139. :red_circle: [max-path-sum-in-binary-tree.cpp](AlgoExpert/max-path-sum-in-binary-tree.cpp) _Hint: Need to keep track of multiple things at every recursive call. [!]_
+
+<!----------------------->
+## Day 59: November 11, 2019
+
+#### LeetCode
+140. :white_circle: [953-verifying-an-alien-dictionary.cpp](LeetCode/953-verifying-an-alien-dictionary.cpp) _Hint: Store the order in a map._
