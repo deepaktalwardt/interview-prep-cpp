@@ -1,16 +1,16 @@
 # Interview Preparation
 My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
 
-# Completed: 44/59 days
+# Completed: 45/61 days
 
 __Difficulty Levels solved__
  
  :white_circle: Easy: 42  
- :large_blue_circle: Medium: 76  
+ :large_blue_circle: Medium: 77  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
 
- __Total:__ 142
+ __Total:__ 143
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -569,7 +569,7 @@ Break
 139. :red_circle: [max-path-sum-in-binary-tree.cpp](AlgoExpert/max-path-sum-in-binary-tree.cpp) _Hint: Need to keep track of multiple things at every recursive call. [!]_
 
 <!----------------------->
-## Day 59: November 11, 2019
+## Day 59: November 12, 2019
 
 #### LeetCode
 140. :white_circle: [953-verifying-an-alien-dictionary.cpp](LeetCode/953-verifying-an-alien-dictionary.cpp) _Hint: Store the order in a map._
@@ -577,3 +577,13 @@ Break
 141. :white_circle: [997-find-the-town-judge.cpp](LeetCode/997-find-the-town-judge.cpp) _Hint: Find incoming and outgoing degrees._
 
 142. :large_blue_circle: [277-find-the-celebrity.cpp](LeetCode/277-find-the-celebrity.cpp) _Hint: Find a candidate and verify, else cannot be found._
+
+<!----------------------->
+## Day 60: November 13, 2019
+Break
+
+<!----------------------->
+## Day 61: November 14, 2019
+
+#### LeetCode
+143. :large_blue_circle: [261-graph-valid-tree.cpp](LeetCode/261-graph-valid-tree.cpp) _Hint: Use union find and check for cycles when adding an edge._
