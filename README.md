@@ -3,12 +3,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 42  
+ :white_circle: Easy: 43  
  :large_blue_circle: Medium: 77  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
 
- __Total:__ 143
+ __Total:__ 144
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -568,3 +568,9 @@ Skipped, midterm at school.
 
 #### LeetCode
 143. :large_blue_circle: [261-graph-valid-tree.cpp](LeetCode/261-graph-valid-tree.cpp) _Hint: Use union find and check for cycles when adding an edge._
+
+<!----------------------->
+## Day 58
+
+#### AlgoExpert
+144. :white_circle: [branch-sums.cpp](AlgoExpert/branch-sums.cpp) _Hint: Read the definition of branch sum carefully._
