@@ -1,7 +1,5 @@
 # Interview Preparation
-My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. Part of my #100 Days of Interview Preparation challenge. I will be adding my solutions to this repository every day starting September 15, 2019.
-
-# Completed: 45/61 days
+My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI book, Pramp, Codility and other interview preparation resources. I will be adding my solutions to this repository every day starting September 15, 2019.
 
 __Difficulty Levels solved__
  
@@ -54,7 +52,7 @@ __Focus for today:__ Heaps/Priority Queues
 20. :white_circle: [two-number-sum.cpp](AlgoExpert/two-number-sum.cpp) 
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 1: September 15, 2019
+## Day 1
 __Focus for today:__ Heaps/Priority Queues
 
 #### LeetCode
@@ -65,7 +63,7 @@ __Focus for today:__ Heaps/Priority Queues
 23. :large_blue_circle: [min-heap-construction.cpp](AlgoExpert/min-heap-construction.cpp) 
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
- ## Day 2: September 16, 2019
+ ## Day 2
 __Focus for today:__ Heaps/Priority Queues
 
 #### LeetCode
@@ -76,7 +74,7 @@ __Focus for today:__ Heaps/Priority Queues
 26. :white_circle: [binary-search.cpp](AlgoExpert/binary-search.cpp) _Hint: Helper helps!_
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 3: September 17, 2019
+## Day 3
 __Focus for today:__ Heaps/Priority Queues/Mock Interview Practice
 
 #### LeetCode
@@ -87,7 +85,7 @@ __Focus for today:__ Heaps/Priority Queues/Mock Interview Practice
 29. :red_circle: [contiunous-median.cpp](AlgoExpert/contiunous-median.cpp) _Hint: Remember to rebalance the heaps!_
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 4: September 18, 2019
+## Day 4
 __Focus for today:__ Heaps/Priority Queues, Common LeetCode questions
 
 #### LeetCode
@@ -95,7 +93,7 @@ __Focus for today:__ Heaps/Priority Queues, Common LeetCode questions
 31. :large_blue_circle: [2-add-two-numbers.cpp](LeetCode/2-add-two-numbers.cpp) _Hint: Recall elementary math! Also don't forget about the carry!_
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 5: September 19, 2019
+## Day 5
 __Focus for today:__ Common LeetCode questions, Heaps/Priority Queues
 
 #### LeetCode
@@ -110,7 +108,7 @@ __Focus for today:__ Common LeetCode questions, Heaps/Priority Queues
 36. :large_blue_circle: [10-4-k-closest-stars.cpp](EPI/10-4-k-closest-stars.cpp) _Hint: Don't load everything into memory, use interators to point from beginning to end of stars list._
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 6: September 20, 2019
+## Day 6
 __Focus for today:__ Pramp interview
 
 #### Pramp
@@ -118,7 +116,7 @@ __Focus for today:__ Pramp interview
 38. :large_blue_circle: [busiest-time-in-mall.cpp](Pramp/interview-1/busiest-time-in-mall.cpp) _Hint: Time stamps can be repeated! What happens at the last one?._
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 7: September 21, 2019
+## Day 7
 __Focus for today:__ Heaps, Graphs
 
 #### LeetCode
@@ -131,14 +129,14 @@ __Focus for today:__ Heaps, Graphs
 43. :large_blue_circle: [river-sizes.cpp](AlgoExpert/river-sizes.cpp) _Hint: Use DFS/BFS as soon as you find a river. Keep track of already visited ones._
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 8: September 22, 2019
+## Day 8
 __Focus for today:__ Graphs
 
 #### LeetCode
 44. :large_blue_circle: [200-number-of-islands.cpp](LeetCode/200-number-of-islands.cpp) _Hint: Recursive DFS is much faster!_
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 9: September 23, 2019
+## Day 9
 __Focus for today:__ Graphs
 
 #### AlgoExpert
@@ -146,7 +144,7 @@ __Focus for today:__ Graphs
 46. :red_circle: [lowest-common-manager.cpp](AlgoExpert/lowest-common-manager.cpp) _Hint: Don't forget about the edgecase where one of the reports could be the manager!_
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 10: September 24, 2019
+## Day 10
 __Focus for today:__ Graphs
 
 #### LeetCode
@@ -156,7 +154,7 @@ __Focus for today:__ Graphs
 48. :black_circle: [rectangle-mania.cpp](AlgoExpert/rectangle-mania.cpp) _Hint: What do diagonals tell you? Can a datastructure give you better lookup than the `vector`?_
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 11: September 25, 2019
+## Day 11
 __Focus for today:__ Arrays and Strings
 
 #### LeetCode
@@ -166,11 +164,11 @@ __Focus for today:__ Arrays and Strings
 50. :large_blue_circle: [getting-a-different-number.cpp](Pramp/interview-2/getting-a-different-number.cpp) _Hint: There are 3 ways to do it! O(N) is possible but not intuitive._
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 12: September 26, 2019
+## Day 12
 Practiced but did not have any answers completed.
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 13: September 27, 2019
+## Day 13
 __Focus for today:__ Arrays and Strings
 #### LeetCode
 51. :large_blue_circle: [785-is-graph-bipartite.cpp](LeetCode/785-is-graph-bipartite.cpp) _Hint: Any neighbor of a node cannot have the same color as itself._
@@ -180,7 +178,7 @@ __Focus for today:__ Arrays and Strings
 53. :red_circle: [word-count-engine.cpp](Pramp/interview-3/word-count-engine.cpp) _Hint: You cannot do sorting and counting at the same time._
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 14: September 28, 2019
+## Day 14
 __Focus for today:__ Arrays and Strings
 #### LeetCode
 54. :white_circle: [268-missing-number.cpp](LeetCode/268-missing-number.cpp) _Hint: What was gauss's formula? Use it!_
@@ -192,7 +190,7 @@ __Focus for today:__ Arrays and Strings
 58. :red_circle: [subarray-sort.cpp](AlgoExpert/subarray-sort.cpp) _Hint: Find the smallest and largest out of order numbers. Where will you place them now?._
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 15: September 29, 2019
+## Day 15
 __Focus for today:__ Arrays and Strings, Graphs
 
 #### AlgoExpert
@@ -216,7 +214,7 @@ __Focus for today:__ Arrays and Strings, Graphs
 65. :large_blue_circle: [11-container-with-most-water.cpp](LeetCode/11-container-with-most-water.cpp) _Hint: Traverse from both ends._
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 16: September 30, 2019
+## Day 16
 __Focus for today:__ Arrays, Pramp interview
 
 #### AlgoExpert
@@ -224,7 +222,7 @@ __Focus for today:__ Arrays, Pramp interview
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 17: October 1, 2019
+## Day 17
 __Focus for today:__ Arrays 
 
 #### LeetCode
@@ -232,26 +230,26 @@ __Focus for today:__ Arrays
 68. :large_blue_circle: [54-spiral-matrix.cpp](LeetCode/54-spiral-matrix.cpp) _Hint: Keep track of beggining and ending indices of rows and columns as you rotate around the matrix. Increment or decrement as you finish any row or column. Have you violated the constraints while inside the loop?`_
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 18: October 2, 2019
+## Day 18
 __Focus for today:__ Arrays 
 
 #### LeetCode
 69. :large_blue_circle: [161-one-edit-distance.cpp](LeetCode/161-one-edit-distance.cpp) _Hint: Iterate over both and keep account of differences._
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 19: October 3, 2019
+## Day 19
 __Focus for today:__ Arrays 
 
 #### LeetCode
 70. :large_blue_circle: [48-rotate-image.cpp](LeetCode/48-rotate-image.cpp) _Hint: Keep track of row and column limits and go around in a circle. Make the circle smaller once all are done._
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
-## Day 20: October 4, 2019
+## Day 20
 Skipped, other priorities for the day.
 
 
 <!----------------------->
-## Day 21: October 5, 2019
+## Day 21
 __Focus for today:__ Dynamic Programming
 
 #### AlgoExpert
@@ -265,7 +263,7 @@ __Focus for today:__ Dynamic Programming
 74. :white_circle: [53-maximum-subarray.cpp](LeetCode/53-maximum-subarray.cpp) _Hint: Maximum subarray at i is max of current number or sum of previous max and current number._
 
 <!----------------------->
-## Day 22: October 6, 2019
+## Day 22
 __Focus for today:__ Dynamic Programming, Mock interview
 
 #### LeetCode
@@ -276,7 +274,7 @@ __Focus for today:__ Dynamic Programming, Mock interview
 77. :white_circle: [7-reverse-integer.cpp](LeetCode/7-reverse-integer.cpp) _Hint: Remember that current digit comes from modulo operator. How do you check whether your current answer has overflowed, either in positive or negative directions?_
 
 <!----------------------->
-## Day 23: October 7, 2019
+## Day 23
 __Focus for today:__ Dynamic Programming, Mock interview
 
 #### LeetCode
@@ -286,7 +284,7 @@ __Focus for today:__ Dynamic Programming, Mock interview
 79. :large_blue_circle: [levenshtein-distance.cpp](AlgoExpert/levenshtein-distance.cpp) _Hint: Remember to consider empty spaces at the beginning of strings. Initialize the first row and column. If current character in str1 is not equal to that in str2, add 1 to min of surrounding three. Else, copy the diagonal value as if the new character did not exist._
 
 <!----------------------->
-## Day 24: October 8, 2019
+## Day 24
 __Focus for today:__ Graphs and review
 
 #### AlgoExpert
@@ -302,15 +300,15 @@ __Focus for today:__ Graphs and review
 84. :large_blue_circle: [207-course-schedule.cpp](LeetCode/207-course-schedule.cpp) _Hint: Topological Sort. Keep track of cycles in pre-requisites by checking if the node you're currently checking is in the stack already. Remember to visit the node AFTER visiting all its neighbors._
 
 <!----------------------->
-## Day 25: October 9, 2019
+## Day 25
 __Focus for today:__ Coding challenge from a Company
 
 <!----------------------->
-## Day 26: October 10, 2019
+## Day 26
 Skipped. Midterm at school.
 
 <!----------------------->
-## Day 27: October 11, 2019
+## Day 27
 __Focus for today:__ Dynamic Programming
 
 #### AlgoExpert
@@ -322,21 +320,21 @@ __Focus for today:__ Dynamic Programming
 87. :red_circle: [42-trapping-rain-water.cpp](LeetCode/42-trapping-rain-water.cpp) _Hint: Extension of [water-area.cpp](AlgoExpert/water-area.cpp) Use only one array for holding the min if left max pillar and right max pillar._
 
 <!----------------------->
-## Day 28: October 12, 2019
+## Day 28
 __Focus for today:__ Dynamic Programming
 
 88. :red_circle: [knapsack-problem.cpp](AlgoExpert/knapsack-problem.cpp) _Hint: Use a 2D array tracking maxValue possible with given items and given capacity size. Current max value is comes from either using the previous max value, or adding the current value with the max value obtained from adding the remainder into the knapsack. Build resulting array by backtracking from max value._
 
 <!----------------------->
-## Day 29: October 13, 2019
+## Day 29
 Skipped. Preparing for midterm.
 
 <!----------------------->
-## Day 30: October 14, 2019
+## Day 30
 Skipped. Preparing for midterm.
 
 <!----------------------->
-## Day 31: October 15, 2019
+## Day 31
 __Focus for today:__ Dynamic Programming
 
 #### AlgoExpert
@@ -348,7 +346,7 @@ __Focus for today:__ Dynamic Programming
 91. :white_circle: [746-min-cost-climbing-stairs.cpp](LeetCode/746-min-cost-climbing-stairs.cpp) _Hint: Cost of climbing to current step is sum of cost of being on this step and minimum of either the cost of coming from previous step or previous to previous step._
 
 <!----------------------->
-## Day 32: October 16, 2019
+## Day 32
 __Focus for today:__ Dynamic Programming
 
 #### AlgoExpert
@@ -358,7 +356,7 @@ __Focus for today:__ Dynamic Programming
 93. :large_blue_circle: [matrix-spiral-copy.cpp](Pramp/interview-4/matrix-spiral-copy.cpp) _Hint: Keep track of left, right, top and bottom boundaries and increment/decrement them as you go along._
 
 <!----------------------->
-## Day 33: October 17, 2019
+## Day 33
 __Focus for today:__ Dynamic Programming and Graphs
 
 #### LeetCode
@@ -367,7 +365,7 @@ __Focus for today:__ Dynamic Programming and Graphs
 95. :large_blue_circle: [1079-letter-tile-possibilities.cpp](LeetCode/1079-letter-tile-possibilities.cpp) _Hint: First create a map with character counts. Then do recursive DFS and count by removing one character at a time and one length at a time._
 
 <!----------------------->
-## Day 34: October 18, 2019
+## Day 34
 __Focus for today:__ Common Google problems
 
 #### LeetCode
@@ -376,7 +374,7 @@ __Focus for today:__ Common Google problems
 97. :large_blue_circle: [139-word-break.cpp](LeetCode/139-word-break.cpp) _Hint: Think of it in terms of segmentation. A string can be segmented into words from dictionary if a part of it can be segmented, and the remaining directly exists in the dictionary._
 
 <!----------------------->
-## Day 35: October 19, 2019
+## Day 35
 __Focus for today:__ Common Google problems
 
 #### LeetCode
@@ -389,7 +387,7 @@ __Focus for today:__ Common Google problems
 101. :large_blue_circle: [1055-shortest-way-to-form-string.cpp](LeetCode/1055-shortest-way-to-form-string.cpp) _Hint: Use a pointer each for both strings, compare characters and move accordingly. Keep track of how many characters you skip, if you skipped all of source string, return -1._
 
 <!----------------------->
-## Day 36: October 20, 2019
+## Day 36
 __Focus for today:__ Common Google problems
 
 #### LeetCode
@@ -410,28 +408,28 @@ __Focus for today:__ Common Google problems
 
 
 <!----------------------->
-## Day 37: October 21, 2019
+## Day 37
 __Focus for today:__ Common Google problems
 
 #### LeetCode
 109. :white_circle: [299-bulls-and-cows.cpp](LeetCode/299-bulls-and-cows.cpp) _Hint: You can do it without `O(N)` additional space! Can you mark the already chosen ones?_
 
 <!----------------------->
-## Day 38: October 22, 2019
+## Day 38
 Skipped, preparing for project assignment.
 
 <!----------------------->
-## Day 39: October 23, 2019
+## Day 39
 Skipped, preparing for project assignment.
 
 <!----------------------->
-## Day 40: October 24, 2019
+## Day 40
 __Focus for today:__ Mock interview
 
 110. :large_blue_circle: [281-zigzag-iterator.cpp](LeetCode/281-zigzag-iterator.cpp) _Hint: You don't need two pointers._
 
 <!----------------------->
-## Day 41: October 25, 2019
+## Day 41
 __Focus for today:__ Common questions
 
 #### AlgoExpert
@@ -440,19 +438,19 @@ __Focus for today:__ Common questions
 112. :large_blue_circle: [search-in-sorted-matrix.cpp](AlgoExpert/search-in-sorted-matrix.cpp) _Hint: At each iteration you can ignore either a row or column if it is not equal to target._
 
 <!----------------------->
-## Day 42: October 26, 2019
+## Day 42
 Skipped: Attending CalHacks
 
 <!----------------------->
-## Day 43: October 27, 2019
+## Day 43
 Skipped: Attending CalHacks
 
 <!----------------------->
-## Day 44: October 28, 2019
+## Day 44
 Skipped: Attending CalHacks
 
 <!----------------------->
-## Day 45: October 29, 2019
+## Day 45
 
 #### LeetCode
 113. :large_blue_circle: [240-search-a-2d-matrix-ii.cpp](LeetCode/240-search-a-2d-matrix-ii.cpp) _Hint: Which corner do you want to start at? A corner that tells you more about which row or column you can ignore._
@@ -471,7 +469,7 @@ Skipped: Attending CalHacks
 119. :large_blue_circle: [balanced-brackets.cpp](AlgoExpert/balanced-brackets.cpp) _Hint: What are the cases when brackets are not balanced?_
 
 <!----------------------->
-## Day 46: October 30, 2019
+## Day 46
 
 #### LeetCode
 120. :large_blue_circle: [79-word-search.cpp](LeetCode/79-word-search.cpp) _Hint: What happens if you go down the wrong path and need to reset back to the valid path? Backtracking!_
@@ -481,7 +479,7 @@ Skipped: Attending CalHacks
 122. :white_circle: [26-remove-duplicates-from-sorted-array.cpp](LeetCode/26-remove-duplicates-from-sorted-array.cpp) _Hint: Use two pointers and keep the slow pointer as the end of the array you return._
 
 <!----------------------->
-## Day 47: October 31, 2019
+## Day 47
 
 #### Pramp
 123. :large_blue_circle: [sales-path.cpp](Pramp/interview-5/sales-path.cpp) _Hint: Same as finding min cost path._
@@ -490,11 +488,11 @@ Skipped: Attending CalHacks
 124. :large_blue_circle: [105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp](LeetCode/105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp) _Hint: Identify which nodes belong to the right and left subtree in both traversals._
 
 <!----------------------->
-## Day 48: November 1, 2019
+## Day 48
 Skipped, working on assignment.
 
 <!----------------------->
-## Day 49: November 2, 2019
+## Day 49
 
 #### Pramp
 125. :large_blue_circle: [array-of-array-products.cpp](Pramp/interview-6/array-of-array-products.cpp) _Hint: Forwards and Backwards pass._
@@ -508,7 +506,7 @@ Skipped, working on assignment.
 128. :red_circle: [shifted-binary-search.cpp](AlgoExpert/shifted-binary-search.cpp) _Hint: Add an extra condition to choose where to perform binary search._
 
 <!----------------------->
-## Day 50: November 3, 2019
+## Day 50
 
 #### AlgoExpert
 129. :red_circle: [min-number-of-jumps.cpp](AlgoExpert/min-number-of-jumps.cpp) _Hint: Keep track of `maxReach` and `steps` available to take with the given number of jumps._
@@ -516,11 +514,11 @@ Skipped, working on assignment.
 130. :red_circle: [longest-substring-without-duplication.cpp](AlgoExpert/longest-substring-without-duplication.cpp) _Hint: Keep last seen index of each character in an `unordered_map` and update the `startIdx` when the current character already exists in the map._
 
 <!----------------------->
-## Day 51: November 4, 2019
+## Day 51
 Skipped, midterm at school.
 
 <!----------------------->
-## Day 52: November 5, 2019
+## Day 52
 
 #### LeetCode
 131. :large_blue_circle: [3-longest-substring-without-repeating-characters.cpp](LeetCode/3-longest-substring-without-repeating-characters.cpp) _Hint: Check for `maxLen` at every index, and update the `startIdx` every time you find a character that already exists in the map._
@@ -530,7 +528,7 @@ Skipped, midterm at school.
 133. :large_blue_circle: [33-search-in-rotated-sorted-array.cpp](LeetCode/33-search-in-rotated-sorted-array.cpp) _Hint: If left array is not sorted, right must be sorted, and vice versa!_
 
 <!----------------------->
-## Day 53: November 6, 2019
+## Day 53
 
 #### EPI
 134. :large_blue_circle: [string-match.cpp](EPI/string-match.cpp) _Hint: How can you use hashing?_
@@ -539,7 +537,7 @@ Skipped, midterm at school.
 135. :large_blue_circle: [81-search-in-rotated-sorted-array-ii.cpp](LeetCode/81-search-in-rotated-sorted-array-ii.cpp) _Hint: Think about what you should do when left index and middle index are the same value._
 
 <!----------------------->
-## Day 54: November 7, 2019
+## Day 54
 
 #### EPI
 136. :large_blue_circle: [rook_attack.cpp](EPI/rook_attack.cpp) _Hint: Two passes are fine._
@@ -549,27 +547,14 @@ Skipped, midterm at school.
 
 138. :large_blue_circle: [560-subarray-sum-equals-k.cpp](LeetCode/560-subarray-sum-equals-k.cpp) _Hint: Keep track of sums from 0 to i._
 
-
 <!----------------------->
-## Day 55: November 8, 2019
-Onsite interview
-
-<!----------------------->
-## Day 56: November 9, 2019
-Break
-
-<!----------------------->
-## Day 57: November 10, 2019
-Break
-
-<!----------------------->
-## Day 58: November 11, 2019
+## Day 55
 
 #### AlgoExpert
 139. :red_circle: [max-path-sum-in-binary-tree.cpp](AlgoExpert/max-path-sum-in-binary-tree.cpp) _Hint: Need to keep track of multiple things at every recursive call. [!]_
 
 <!----------------------->
-## Day 59: November 12, 2019
+## Day 56
 
 #### LeetCode
 140. :white_circle: [953-verifying-an-alien-dictionary.cpp](LeetCode/953-verifying-an-alien-dictionary.cpp) _Hint: Store the order in a map._
@@ -579,11 +564,7 @@ Break
 142. :large_blue_circle: [277-find-the-celebrity.cpp](LeetCode/277-find-the-celebrity.cpp) _Hint: Find a candidate and verify, else cannot be found._
 
 <!----------------------->
-## Day 60: November 13, 2019
-Break
-
-<!----------------------->
-## Day 61: November 14, 2019
+## Day 57
 
 #### LeetCode
 143. :large_blue_circle: [261-graph-valid-tree.cpp](LeetCode/261-graph-valid-tree.cpp) _Hint: Use union find and check for cycles when adding an edge._
