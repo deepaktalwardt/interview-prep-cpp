@@ -472,7 +472,8 @@ Skipped: Attending CalHacks
 ## Day 46
 
 #### LeetCode
-120. :large_blue_circle: [79-word-search.cpp](LeetCode/79-word-search.cpp) _Hint: What happens if you go down the wrong path and need to reset back to the valid path? Backtracking!_
+120. :large_blue_circle: [79-word-search.cpp](LeetCode/79-word-search.cpp) _Hint: (1) Iterative: What happens if you go down the wrong path and need to reset back to the valid path? Backtracking!_
+_(2) Recursive: Don't need to worry about backtracking. How would you keep track of the path you're on?_
 
 121. :red_circle: [308-range-sum-query-2d-mutable.cpp](LeetCode/308-range-sum-query-2d-mutable.cpp) _Hint: There is a dynamic programming way to do later._
 
