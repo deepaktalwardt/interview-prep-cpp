@@ -4,11 +4,11 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 43  
- :large_blue_circle: Medium: 77  
+ :large_blue_circle: Medium: 78  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
 
- __Total:__ 144
+ __Total:__ 145
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -574,3 +574,5 @@ Skipped, midterm at school.
 
 #### AlgoExpert
 144. :white_circle: [branch-sums.cpp](AlgoExpert/branch-sums.cpp) _Hint: Read the definition of branch sum carefully._
+
+145. :large_blue_circle: [group-anagrams.cpp](AlgoExpert/group-anagrams.cpp) _Hint: Sort each word and then use a hashmap to add them to the same vector._
