@@ -581,4 +581,4 @@ Skipped, midterm at school.
 ## Day 59
 
 #### AlgoExpert
-146. :large_blue_circle: [permutations.cpp](AlgoExpert/permutations.cpp) _Hint: (1: Better) With the first number fixed, create permutations for all other numbers by swapping them. Once you're at the end of the list, you have found one permutation. (2: Worse) Take an element out of the array, create permutations of all others, and append element to each permutation._ :star:
+146. :large_blue_circle: :star: [permutations.cpp](AlgoExpert/permutations.cpp) _Hint: (1: Better) With the first number fixed, create permutations for all other numbers by swapping them. Once you're at the end of the list, you have found one permutation. (2: Worse) Take an element out of the array, create permutations of all others, and append element to each permutation._ 
