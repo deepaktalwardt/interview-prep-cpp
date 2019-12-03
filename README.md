@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 43  
- :large_blue_circle: Medium: 79  
+ :large_blue_circle: Medium: 80  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
  :star: Good to review
 
- __Total:__ 146
+ __Total:__ 147
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -583,3 +583,6 @@ Skipped, midterm at school.
 
 #### AlgoExpert
 146. :large_blue_circle: :star: [permutations.cpp](AlgoExpert/permutations.cpp) _Hint: (1: Better) With the first number fixed, create permutations for all other numbers by swapping them. Once you're at the end of the list, you have found one permutation. (2: Worse) Take an element out of the array, create permutations of all others, and append element to each permutation._ 
+
+#### LeetCode
+147. :large_blue_circle: :star: [22-generate-parentheses.cpp](LeetCode/22-generate-parentheses.cpp) _Hint: Recursively add either '(' or ')' depending on which one is available. Add to the result once the length of current permutation hits 2*n._
