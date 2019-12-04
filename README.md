@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 44  
- :large_blue_circle: Medium: 80  
+ :large_blue_circle: Medium: 81  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
  :star: Good to review
 
- __Total:__ 148
+ __Total:__ 149
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -588,3 +588,9 @@ Skipped, midterm at school.
 147. :large_blue_circle: :star: [22-generate-parentheses.cpp](LeetCode/22-generate-parentheses.cpp) _Hint: Recursively add either '(' or ')' depending on which one is available. Add to the result once the length of current permutation hits 2*n._
 
 148. :white_circle: [14-longest-common-prefix.cpp](LeetCode/14-longest-common-prefix.cpp) _Hint: Compare until not equal._
+
+<!----------------------->
+## Day 60
+
+#### LeetCode
+149. :large_blue_circle: [49-group-anagrams.cpp](LeetCode/49-group-anagrams.cpp) _Hint: Sort each word and use a hashmap to add them to the same vector._
