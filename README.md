@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 44  
- :large_blue_circle: Medium: 81  
+ :large_blue_circle: Medium: 82  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
  :star: Good to review
 
- __Total:__ 149
+ __Total:__ 150
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -594,3 +594,5 @@ Skipped, midterm at school.
 
 #### LeetCode
 149. :large_blue_circle: [49-group-anagrams.cpp](LeetCode/49-group-anagrams.cpp) _Hint: Sort each word and use a hashmap to add them to the same vector._
+
+150. :large_blue_circle: :star: [17-letter-combinations-of-a-phone-number.cpp](LeetCode/17-letter-combinations-of-a-phone-number.cpp) _Hint: Iterative + Recursive: Iterate over all possible next characters and recursively build up the solutions. Once you reach the end of the digits string, you have found one combination._
