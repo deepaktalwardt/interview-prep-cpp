@@ -1,3 +1,22 @@
+// Easy to read solution
+class Solution {
+public:
+    int reverse(int x) {
+        long result = 0;
+        while (x != 0) {
+            int num = x % 10;
+            x = x / 10;
+            result = result * 10 + num;
+        }
+        if (result < INT_MIN || result > INT_MAX) {
+            return 0;
+        }
+        return result;
+    }
+};
+
+
+// Not easy to read
 class Solution {
 public:
     int reverse(int x) {
