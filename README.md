@@ -3,13 +3,13 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 47  
- :large_blue_circle: Medium: 82  
+ :white_circle: Easy: 48  
+ :large_blue_circle: Medium: 83  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
  :star: Good to review
 
- __Total:__ 153
+ __Total:__ 155
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -610,3 +610,8 @@ Skipped, midterm at school.
 
 #### AlgoExpert
 153. :white_circle: [product-sum.cpp](AlgoExpert/product-sum.cpp) _Hint: How do you handle the level?_
+
+154. :white_circle: [find-closest-in-bst.cpp](AlgoExpert/find-closest-in-bst.cpp) _Hint: Can you do it both recursively and iteratively?_
+
+#### LeetCode
+155. :large_blue_circle: [159-longest-substring-with-two-distinct-chars.cpp](LeetCode/159-longest-substring-with-two-distinct-chars.cpp) _Hint: Use hashing._
