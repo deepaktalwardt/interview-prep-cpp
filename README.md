@@ -3,13 +3,13 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 46  
+ :white_circle: Easy: 47  
  :large_blue_circle: Medium: 82  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
  :star: Good to review
 
- __Total:__ 152
+ __Total:__ 153
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -604,3 +604,9 @@ Skipped, midterm at school.
 151. :white_circle: [840-magic-squares-in-grid.cpp](LeetCode/840-magic-squares-in-grid.cpp) _Hint: What should sum of each row and column be equal to?_
 
 152. :white_circle: [929-unique-email-addresses.cpp](LeetCode/929-unique-email-addresses.cpp) 
+
+<!----------------------->
+## Day 62
+
+#### AlgoExpert
+153. :white_circle: [product-sum.cpp](AlgoExpert/product-sum.cpp) _Hint: How do you handle the level?_
