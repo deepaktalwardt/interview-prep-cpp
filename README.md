@@ -614,4 +614,4 @@ Skipped, midterm at school.
 154. :white_circle: [find-closest-in-bst.cpp](AlgoExpert/find-closest-in-bst.cpp) _Hint: Can you do it both recursively and iteratively?_
 
 #### LeetCode
-155. :large_blue_circle: [159-longest-substring-with-two-distinct-chars.cpp](LeetCode/159-longest-substring-with-two-distinct-chars.cpp) _Hint: Find a way to not have to clear the entire map when map size becomes greater than 2._
+155. :large_blue_circle: :star: [159-longest-substring-with-two-distinct-chars.cpp](LeetCode/159-longest-substring-with-two-distinct-chars.cpp) _Hint: Find a way to not have to clear the entire map when map size becomes greater than 2._
