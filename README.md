@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 48  
- :large_blue_circle: Medium: 84  
+ :large_blue_circle: Medium: 85  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
  :star: Good to review
 
- __Total:__ 156
+ __Total:__ 157
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -621,3 +621,6 @@ Skipped, midterm at school.
 
 #### Pramp
 156. :large_blue_circle: [find-the-duplicates.cpp](Pramp/interview-7/find-the-duplicates.cpp) _Hint: Make use of the sorted nature._
+
+#### AlgoExpert
+157. :large_blue_circle: [move-element-to-end.cpp](AlgoExpert/move-element-to-end.cpp) _Hint: Use two pointers._
