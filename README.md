@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 48  
- :large_blue_circle: Medium: 83  
+ :large_blue_circle: Medium: 84  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
  :star: Good to review
 
- __Total:__ 155
+ __Total:__ 156
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -615,3 +615,9 @@ Skipped, midterm at school.
 
 #### LeetCode
 155. :large_blue_circle: :star: [159-longest-substring-with-two-distinct-chars.cpp](LeetCode/159-longest-substring-with-two-distinct-chars.cpp) _Hint: Find a way to not have to clear the entire map when map size becomes greater than 2._
+
+<!----------------------->
+## Day 63
+
+#### Pramp
+156. :large_blue_circle: [find-the-duplicates.cpp](Pramp/interview-7/find-the-duplicates.cpp) _Hint: Make use of the sorted nature._
