@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 48  
- :large_blue_circle: Medium: 85  
+ :large_blue_circle: Medium: 86  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
  :star: Good to review
 
- __Total:__ 157
+ __Total:__ 158
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -624,3 +624,6 @@ Skipped, midterm at school.
 
 #### AlgoExpert
 157. :large_blue_circle: [move-element-to-end.cpp](AlgoExpert/move-element-to-end.cpp) _Hint: Use two pointers._
+
+#### LeetCode
+158. :large_blue_circle: :star: [98-validate-binary-search-tree.cpp](LeetCode/98-validate-binary-search-tree.cpp) _Hint: What are the limits for each BST node's values?_
