@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 48  
- :large_blue_circle: Medium: 89  
+ :large_blue_circle: Medium: 90  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
  :star: Good to review
 
- __Total:__ 161
+ __Total:__ 162
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -638,3 +638,9 @@ Skipped, midterm at school.
 #### LeetCode
 160. :large_blue_circle: [681-next-closest-time.cpp](LeetCode/681-next-closest-time.cpp) _Hint: Simulate time forwarding._
 161. :large_blue_circle: :star: [904-fruit-into-baskets.cpp](LeetCode/904-fruit-into-baskets.cpp) _Hint: Similar to longest substring with 2 distinct elements._
+
+<!----------------------->
+## Day 65
+
+#### LeetCode
+162. :large_blue_circle: :star: [399-evaluate-division.cpp](LeetCode/399-evaluate-division.cpp) _Hint: What datastructure can be best used to describe this problem?_
