@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 48  
- :large_blue_circle: Medium: 87  
+ :large_blue_circle: Medium: 88  
  :red_circle: Hard: 21  
  :black_circle: Very Hard: 3  
  :star: Good to review
 
- __Total:__ 159
+ __Total:__ 160
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -633,4 +633,8 @@ Skipped, midterm at school.
 ## Day 64
 
 #### AlgoExpert
-159. :large_blue_circle: [validate-bst.cpp](AlgoExpert/validate-bst.cpp) _Hint: Make sure you keep track of the limits of the BST nodes' values._
+159. :large_blue_circle: :star: [validate-bst.cpp](AlgoExpert/validate-bst.cpp) _Hint: Make sure you keep track of the limits of the BST nodes' values._
+
+#### LeetCode
+
+160. :large_blue_circle: [681-next-closest-time.cpp](LeetCode/681-next-closest-time.cpp) _Hint: Simulate time forwarding._
