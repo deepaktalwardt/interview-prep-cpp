@@ -6,10 +6,10 @@ __Difficulty Levels solved__
  :white_circle: Easy: 48  
  :large_blue_circle: Medium: 90  
  :red_circle: Hard: 21  
- :black_circle: Very Hard: 3  
+ :black_circle: Very Hard: 4  
  :star: Good to review
 
- __Total:__ 162
+ __Total:__ 163
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -644,3 +644,6 @@ Skipped, midterm at school.
 
 #### LeetCode
 162. :large_blue_circle: :star: [399-evaluate-division.cpp](LeetCode/399-evaluate-division.cpp) _Hint: What datastructure can be best used to describe this problem?_
+
+#### AlgoExpert
+163. :black_circle: :star: [knuth-morris-pratt-algorithm.cpp](AlgoExpert/knuth-morris-pratt-algorithm.cpp) _Hint: Build the pattern for the substring first, then start comparing. During comparison, instead of going back to the front of the string at failure, go to the previously found pattern that matches._
