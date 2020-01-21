@@ -3,13 +3,13 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 48  
+ :white_circle: Easy: 49  
  :large_blue_circle: Medium: 91  
  :red_circle: Hard: 22  
  :black_circle: Very Hard: 4  
  :star: Good to review
 
- __Total:__ 165
+ __Total:__ 166
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -655,3 +655,4 @@ Skipped, midterm at school.
 
 #### LeetCode
 165. :large_blue_circle: :star: [286-walls-and-gates.cpp](LeetCode/286-walls-and-gates.cpp) _Hint: Multi-start BFS._
+166. :white_circle: [100-same-tree.cpp](LeetCode/100-same-tree.cpp) 
