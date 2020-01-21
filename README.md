@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 48  
- :large_blue_circle: Medium: 90  
+ :large_blue_circle: Medium: 91  
  :red_circle: Hard: 22  
  :black_circle: Very Hard: 4  
  :star: Good to review
 
- __Total:__ 164
+ __Total:__ 165
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -649,3 +649,9 @@ Skipped, midterm at school.
 163. :black_circle: :star: [knuth-morris-pratt-algorithm.cpp](AlgoExpert/knuth-morris-pratt-algorithm.cpp) _Hint: Build the pattern for the substring first, then start comparing. During comparison, instead of going back to the front of the string at failure, go to the previously found pattern that matches._
 
 164. :red_circle: :star: [quick-sort.cpp](AlgoExpert/quick-sort.cpp) _Hint: Choose a pivot and move smaller elements to its left and larger to its right._
+
+
+## Day 66
+
+#### LeetCode
+165. :large_blue_circle: :star: [286-walls-and-gates.cpp](LeetCode/286-walls-and-gates.cpp) _Hint: Multi-start BFS._
