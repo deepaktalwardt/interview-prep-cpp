@@ -656,4 +656,4 @@ Skipped, midterm at school.
 #### LeetCode
 165. :large_blue_circle: :star: [286-walls-and-gates.cpp](LeetCode/286-walls-and-gates.cpp) _Hint: Multi-start BFS._
 166. :white_circle: [100-same-tree.cpp](LeetCode/100-same-tree.cpp) 
-167. :large_blue_circle: :star: [323-number-of-connected-components-in-undirected-graph.cpp] _Hint: Use Union-Find, and make sure to combine parents of parents in a component as well._
+167. :large_blue_circle: :star: [323-number-of-connected-components-in-undirected-graph.cpp](LeetCode/323-number-of-connected-components-in-undirected-graph.cpp) _Hint: Use Union-Find, and make sure to combine parents of parents in a component as well._
