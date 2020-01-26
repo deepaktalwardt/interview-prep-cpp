@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 49  
- :large_blue_circle: Medium: 92  
+ :large_blue_circle: Medium: 93  
  :red_circle: Hard: 22  
  :black_circle: Very Hard: 4  
  :star: Good to review
 
- __Total:__ 167
+ __Total:__ 168
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -657,3 +657,9 @@ Skipped, midterm at school.
 165. :large_blue_circle: :star: [286-walls-and-gates.cpp](LeetCode/286-walls-and-gates.cpp) _Hint: Multi-start BFS._
 166. :white_circle: [100-same-tree.cpp](LeetCode/100-same-tree.cpp) 
 167. :large_blue_circle: :star: [323-number-of-connected-components-in-undirected-graph.cpp](LeetCode/323-number-of-connected-components-in-undirected-graph.cpp) _Hint: Use Union-Find, and make sure to combine parents of parents in a component as well._
+
+
+## Day 67
+
+#### LeetCode
+168. :large_blue_circle: :star: [1102-path-with-maximum-minimum-value.cpp](LeetCode/1102-path-with-maximum-minimum-value.cpp) _Hint: Can a path finding algorithm work?_
