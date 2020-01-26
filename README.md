@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 49  
- :large_blue_circle: Medium: 93  
+ :large_blue_circle: Medium: 94  
  :red_circle: Hard: 22  
  :black_circle: Very Hard: 4  
  :star: Good to review
 
- __Total:__ 168
+ __Total:__ 169
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -663,3 +663,4 @@ Skipped, midterm at school.
 
 #### LeetCode
 168. :large_blue_circle: :star: [1102-path-with-maximum-minimum-value.cpp](LeetCode/1102-path-with-maximum-minimum-value.cpp) _Hint: Can a path finding algorithm work?_
+169. :large_blue_circle: :star: [1135-connecting-cities-with-minimum-cost.cpp](LeetCode/1135-connecting-cities-with-minimum-cost.cpp) _Hint: Use Union-Find._
