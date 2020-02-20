@@ -671,4 +671,4 @@ Skipped, midterm at school.
 ## Day 68
 
 #### AlgoExpert
-172. :red_circle: [palindrome-partitioning-min-cuts.cpp](AlgoExpert/palindrome-partitioning-min-cuts.cpp) _Hint: (1): For all substrings check if it is a palindrome. Then iterate over the string to develop dp logic._
+172. :red_circle: :star: [palindrome-partitioning-min-cuts.cpp](AlgoExpert/palindrome-partitioning-min-cuts.cpp) _Hint: (1): For all substrings check if it is a palindrome. Then iterate over the string to develop dp logic._
