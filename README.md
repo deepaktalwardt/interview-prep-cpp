@@ -5,11 +5,11 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 49  
  :large_blue_circle: Medium: 95  
- :red_circle: Hard: 22  
+ :red_circle: Hard: 23  
  :black_circle: Very Hard: 5  
  :star: Good to review
 
- __Total:__ 171
+ __Total:__ 172
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -666,3 +666,9 @@ Skipped, midterm at school.
 169. :large_blue_circle: :star: [1135-connecting-cities-with-minimum-cost.cpp](LeetCode/1135-connecting-cities-with-minimum-cost.cpp) _Hint: Use Union-Find._
 170. :large_blue_circle: :star: [983-minimum-cost-for-tickets.cpp](LeetCode/983-minimum-cost-for-tickets.cpp) _Hint: What should you iterate over?_
 171. :black_circle: :star: [297-serialize-and-deserialize-binary-tree.cpp](LeetCode/297-serialize-and-deserialize-binary-tree.cpp) _Hint: What order traversal would you use to serialize?_
+
+
+## Day 68
+
+#### AlgoExpert
+172. :red_circle: [palindrome-partitioning-min-cuts.cpp](AlgoExpert/palindrome-partitioning-min-cuts.cpp) _Hint: (1): For all substrings check if it is a palindrome. Then iterate over the string to develop dp logic._
