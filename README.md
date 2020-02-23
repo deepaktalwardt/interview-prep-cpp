@@ -4,12 +4,12 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 __Difficulty Levels solved__
  
  :white_circle: Easy: 49  
- :large_blue_circle: Medium: 95  
- :red_circle: Hard: 23  
+ :large_blue_circle: Medium: 96  
+ :red_circle: Hard: 24  
  :black_circle: Very Hard: 5  
  :star: Good to review
 
- __Total:__ 172
+ __Total:__ 174
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -672,3 +672,7 @@ Skipped, midterm at school.
 
 #### AlgoExpert
 172. :red_circle: :star: [palindrome-partitioning-min-cuts.cpp](AlgoExpert/palindrome-partitioning-min-cuts.cpp) _Hint: (1): For all substrings check if it is a palindrome. Then iterate over the string to develop dp logic._
+
+#### LeetCode
+173. :large_blue_circle: :star: [46-permutations.cpp](LeetCode/46-permutations.cpp) _Hint: For each element in the array, swap it to the front and permute the rest. Then prepend it back._
+174. :red_circle: [132-palindrome-partitioning.cpp](LeetCode/132-palindrome-partitioning.cpp) _Hint: For all substrings check if it is a palindrome. Then iterate over the string to develop dp logic._
