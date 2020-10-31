@@ -1,0 +1,62 @@
+class Solution {
+    
+ vector<int> LPS(string s)
+{
+	int n = s.length();
+	vector<int> lps(n);
+	lps[0] = 0;
+	int j = 0;
+
+	for (int i = 1; i < n; i++)
+	{
+		if (s[i] == s[j])
+		{
+			lps[i] = ++j;
+		}
+		else
+		{
+			while (j > 0 && s[i] != s[j])
+				j = lps[j - 1];
+			if (s[i] == s[j])
+				lps[i] = ++j;
+			else
+			{lps[i] = 0;}
+		}
+	}
+	return lps;
+}  
+    
+public:
+    int strStr(string s, string p) {
+        if(p.length() == 0)
+        {return 0;}
+        
+        if(s.length()<p.length())
+        {return -1;}
+        
+        if(s.length() == p.length() && (s == p))
+        {return 0;}
+        
+        
+        int i = 0, j = 0;
+	vector<int> lps = LPS(p);
+
+	while (i < s.length() && j < p.length())
+	{
+		if (s[i] == p[j])
+		{i++; j++;}
+		else
+		{
+			if(j!=0)	
+            {j = lps[j - 1];}
+            else
+            {i++;}
+		}
+	}
+
+	if (j == p.length())
+		return (i - p.length());
+
+	return -1;    
+    }
+};
